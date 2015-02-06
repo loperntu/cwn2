@@ -1,0 +1,898 @@
+發現 兩 位 噗浪 好友 砍 帳號 了 ， 不過 好友 數並 沒有 更新 減二
+今天 得 出 了 一 個 良好 的 結論 ： 讀書 是 有用 的 。 但 遭到 誤解 以致 中槍 好幾 次 的是 ... 我 明明 是 先 讀 Python 書才 認識 家教 學生 的 ... 不是 反過來 啦 ThisIsAnEmoticonCode
+ThisIsAHyperLink ALUXE DIAMOND
+沒想到 昆明街 91 號 離 92 號 差 那麼 遠
+悠遊 卡 0 元 可進站 。 平常 都在 用光 之前 儲 或者 直接 用到 負的
+又 可以 掛 irc 了 ， 還 記得 的 大大 有空 上 一下 ThisIsAnEmoticonCode
+晚上 花了點 時間 讀 ThisIsAHyperLink 上 個月 提到 的書 Mobile Application Security 裡面 WM 那章 ， 作為 複習 去年 的 記憶 。 然後 看完 還是 想 再 說 一 次 ： ( 現在 的 ) WM 沒 安全性 可言 ， 要 安全 還是 寄望 WP 7吧 XD
+下禮 拜 要報 三 個 小時 的 WinCE 系統 基本 簡介 ， 今天 就 該 開始 做 投影片 了 ThisIsAnEmoticonCode
+好 熱 ... 穿錯 衣服 了 Orz
+在 這 一 刻 ， 我們 可以 感受到 ThisIsAHyperLink Ijs 的 強大 後援 力量 ThisIsAnEmoticonCode
+ThisIsAHyperLink ReP ThisIsAHyperLink cct 42 說5 / 26 ( 三 ) 0810 - 1000 地點 : 大同 大學 演講 主題 : CIH V irus .. ( 中略 ) .. 3 . CIH 最 主要 的 特性 4 . 如何 感染 5 . 中毒 的 檔案 大小 不會 增加 ? 6 . 其他 技術 探討 7 . 手機 版的 CIH ?
+ThisIsAHyperLink 電腦 處理 個 人 資料 保護法 修正 條文 對照表 - 99 / 4 / 27
+恭喜 柳丁大 ThisIsAHyperLink 考上 台科 大 ThisIsAnEmoticonCode 這樣 今年 金 盾 獎的 台科 大隊 又 更 恐怖 了 ThisIsAnEmot iconCode
+ThisIsAHyperLink 小心 你的 露天 帳號 ！
+ThisIsAHyperLink 雖然 不是 自己 的 ， 感受 一下 也好 ThisIsAnEmoticonCode
+打混 真 是 一山 高過 一山 ， 下午 開會 我 現在 才 出門 ， 對方 則 是 現在 打來 問我 幾 點到 再 決定 他們 何時 出門 ThisIsAnEmoticonCode 強
+這 一 週 以來 內心 常 出現 的小 抱怨 關鍵詞 ： 華碩 手機 、 MFC 、 長官
+複雜 的 男女 關係 真是 無所不在 ThisIsAnEmoticonCode
+ThisIsAHyperLink jserv 的 這 個 ThisIsAHyperLink 噗 整 個 看下來 感到 了 熱血 ， 以後 各 大 廠 表現 會 怎麼樣 真 期待 XD 我 原本 也 很 好奇 全球 都 已經 知道 IE 被拋在 後頭 了但 為什麼 M $ ...
+在 WM 手機 上 能用 CreateFile 打開 的 檔案 ， 不見得 在 電腦 上 也 能用 RAPI CeCreateFile 打得開 ， 可能 會 失敗 。 試驗 一些 有 FILE_ATTRIBUTE_INROM 屬性 的 檔案 才 發現 的 ， 我 知道 執行 中程 式 兩 種 API 都打不開 ， 但 未 執行 的 檔案 則 會 造成 不同 結果
+剛 吃欣葉 回來 ， 好 撐 ~ 難受 ThisIsAnEmoticonCode 今天 怎麼 又 有 很久 未見的 親戚 一 看到 我 就 說 「 聽說 你 還 沒 畢業 就賺 了 好幾十萬 ， 之前 還 出國 比賽 喔 」 明明 就 只有 在 學校 幫 老師 寫寫 小 project ， 然後 之前 有 去 一 次 日本 也 不是 比賽 只是 去 聽 演講 而已 ..... 到底 中間 的 謠言 是 怎麼 演變 的 ... orz
+困擾 三 天 的 std : : bad_alloc 終於 消除 了 ThisIsAnEmoticonCode
+師大 夜市 吃麵 看 夜市 人生 ThisIsAnEmoticonCode
+吃 麥 當時 旁邊 兩 位 女生 在聊 雲端 ， 不過 我在手 上的 雞塊 也 雲端 化 之前 就 吃飽 離開 了
+ThisIsAHyperLink 朱學 恆 應該 自己 也 看不起 他的 讀者 @ 草莓 起 司 蛋糕 冰淇淋
+暴雨 + 打雷
+ThisIsAHyperLink [ ReP ] , ThisIsAHyperLink Thinker 的 ThisIsAHyperLink ChildhoodOS
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink cct 42 說5 / 26 ( 三 ) 0800 CIH 回 大同 講 CIH ， 除了 各 版本 的 CIH ， 還 會 當場 實 做 。 有 興趣 懷舊 的請找我 XD
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink mrmoneyc : 久 等 了 ！ ThisIsAHyperLink 2010 五 月份 SA@Taichung 雙連 發 - Android 系統 元件 探討 （ 5 / 22 下午 場 ）
+在 使用 Yahoo API ( 如 斷詞 、 知識 + ) 之前 ， 一定 要 對 申請到 的 API key 先 進行 啟動 的 步驟 ， 就算 是 同一 組 key 要 使用 不同 服務 也 會 有 不同 的 AuthBootUp 頁面 。 ( 之前 申請 三 組 key 輪流 跑 ， 其中 一 個 忘記 啟動 ， 程式 跑完 後才 發現 幾千 個 文字檔 沒 斷詞 到 ThisIsAnEmoticonCode )
+why so boring . . . . . ThisIsAnEmoticonCode
+晚上 開會 原本 很穩 ， 接近 結尾 時被 老師 幾 句 不 該 出現 的話 突然 搞得 內心 緊張 ThisIsAnEmoticonCode
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink jaceju 分享 ThisIsAHyperLink 2010 亞太 資安 論壇 心得 筆記 ＠ ＠ # 前 幾 天 還 沒 看到 ThisIsAnEmoticonCode
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink pct says ThisIsAHyperLink PycTW 2010 徵求 主 題 ， 請 各 位 大大 多多 幫忙 ， 謝謝 ！
+lab 目前 似乎 已經 學弟 都 不 學弟 了 ， 風氣 大 轉變 ... ThisIsAnEmoticonCode ThisIsAnEmoticonCode ThisIsAnEmoticonCode ThisIsAn EmoticonCode
+沒 出去 玩 的時候 ， 就 是 該 工作 的時候 了吧 ThisIsAnEmoticonCode
+無 頭騎士 16 又 來 一 個 爆點 ThisIsAnEmoticonCode 越來越 好看 啦 ~
+剛 去 天瓏 翻了 一下 ThisIsAHyperLink Windows Internals 5 e 中文版 ， 我 個 人 很 喜歡 有 保留 重要 原文 術語 的翻法 ， 例如 object manager , executive , subkey , minidump , ...
+&amp; quot;!important&amp;quot ; 真 是 important .....
+&amp; quot;KICK ASS&amp;quot ; ING SO COOL ThisIsAnEmoticonCode 我 不 該 帶 肉包 進來 吃
+ThisIsAHyperLink Steve Jobs - Thoughts on Flash
+這 兩 天 「 鋼問2 」 的 討論 率真 的 很高 ThisIsAnEmoticonCode ThisIsAHyperLink
+有人 居然 從 依仁 堂搭 公車 到 宵夜 街 下車 ， 走路 不 到 五 分鐘 我們 站在 那 等 車都 超過 二十 分鐘 了 ＠ ＠
+我 感覺 ThisIsAHyperLink p 8361 每天 上線 的 意義 就 是 忙著 中槍 .....
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink amix shares ThisIsAHyperLink A HTTP Prox y Server in 20 Lines of node.js Code ThisIsAnEmoticonCode
+用 前 幾 天 ThisIsAHyperLink 413 x 介紹 的 ThisIsAHyperLink Navicat 操作 資料庫 還 不錯 ThisIsAnEmotico nCode
+練習 一下 SQL 語法 ( 連 複習 都 不能 算是 ， 因為 忘很大 ， 只 能說 重新 練習 了 ... ThisIsAnEmoticonCode )
+ThisIsAHyperLink 部落 格 首 次 遭到 掛馬 （ 應該 是吧 ？ ） 之 記念 文 by ThisIsAHyperLink joaoko
+ThisIsAHyperLink 雖然 我 也 用 VS ， 但 要 達到 影片 中 的 目標 ， 前置 作業 光裝 VS 就 不 知道 多久 了 ... 改用 Python 的話 進展 或許 就 會 快 很多 ThisIsAnEmoticonCode ( 勿戰 ， &amp; quot;Python&amp;quot ; 可 替換 成各 人的 好感 語言 XD )
+幸好 今晚 開會 延期 ThisIsAnEmoticonCode 上 週 碰巧 沒 被 通知到 今晚 要 開會 ， 然後 下午 協調 結果 就變 延期 ThisIsAnEmoticonCode 不然 原 本我 雖然 有 把新 功能 試作 出來 但 還 沒 整合到 可以 demo 的說 XD 弄一 弄到 現在 過 幾 天 開 會 應該 OK 了 ThisIsAnEmoticonCode
+今天 26 日 所以 去 搜尋 Hero ROM 看 是出 了沒 ， 打 &amp; quot;hero rom&amp;quot ; 中間 的 空白 不 小心 斷錯 然後 Google 很 聰明 的 建議 我找 &amp; quot;her room&amp;quot ; ..... ThisIsAnEmoticonCode ThisIsAHyperLink
+來 把 一 堆 XML 檔案 轉入 SQLite db 吧 ...
+又 整理 一 份 報告 。 會 晚上 才 工作 主要 是 因為 白天 在忙幫 大學 老師 解毒 XD
+NDIS.sys 被換 ... ThisIsAnEmoticonCode
+TTU 幫 大學 老師 解毒 ， svchost 狂衝 smtp XDXD
+ANIMAX 在播魯魯修 第一 集 ， 好不 習慣 中文 配音 XDD 「 你是 不列顛 尼亞的 學生 嗎 」 等 廣告 完就 要 獲得 GEASS 了 ~
+明日 組隊回 TTU 幫 老師 解毒 ThisIsAnEmoticonCode 據悉 老師 這 兩 週 快 崩潰 XDD
+ThisIsAHyperLink 深入 Windows 核心 - Windows Internals - 第五 版
+ThisIsAHyperLink std wstring VS std string - Stack Overflow
+為了 短期 內衝 一 篇 論文 ， 而 搞垮 兩 個 人 的話 ， 應該 想 辦法 改變 一下
+最近 話 一多 錯誤 就多 ， 還是 先 安靜 些多做點事 好了 ThisIsAnEmoticonCode
+剛 把 小紅 傘 Console 版 關閉 前的 延遲 拆掉 ， 改成 掃完 馬上 能 關 。 不然 它 總 在 執行 完 還要 等 五 秒 ， 畫面 一秒 秀 一 個 點 ， 然後 才 讓人 按 [ ENTER ] 關閉 ， 像 這樣 ThisIsAHyperLink ThisIsAHyperLink
+果然 lab 一 開 冷氣 我 就 會 感冒
+上 博客 來 網站 搜尋 「 世界 第一 簡單 」 有 不少 書 ThisIsAHyperLink 有 推薦 的嗎
+via ThisIsAHyperLink tenyi , ThisIsAHyperLink EFIX 台灣 較 常見 惡意 程式 清除 工具
+新 的握 便當 &amp; lt ; 雞腿 燕麥 飯 &amp; gt ; 還 OK
+via ThisIsAHyperLink Tsung , ThisIsAHyperLink How To Debug PHP Code And Useful PHP Debugging Tools
+之前 寫 計劃書 中 預期 展示 情境 的 方向 有點 偏差 ， 所以 現在 正 進行 一 個 所謂 的 修改 的 動作 ThisIsAnEmoticonCode
+? ? ? ? ? ！ ！ ThisIsAHyperLink ThisIsAHyperLink 無頭 騎士 裡面 對照 的 真實 池袋 ! 酷 ~ ThisIsAnEmoticonCode
+ThisIsAHyperLink Windows XP Error Music # 太 強大 了 ， 個 人 也 覺得 還 不錯 聽 ＠ ＠
+ThisIsAHyperLink 昨天 在 MOS 教 學生 Python ThisIsAnEmoticonCode
+一百 元 買不起 兩 個 握 便當 加小盒 鮮奶 ThisIsAnEmoticonCode 39 + 39 + 23 = 101
+原來 有 地方 擋 ThisIsAHyperLink hitcon.org 哦 .....
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink darkthread:VS 2010 的 Javascript Intellisens e 還 真 猛 ， 這樣 也 行 ... ThisIsAHyperLink weblogs.asp.net/blogs/scottgu/image_thumb_1B5EB00B.png # ThisIsAnEmoticonCode ! ! !
+ThisIsAHyperLink 華碩 擠入 全球 第五 大 PC 廠 # 「 華碩 第一 季 出貨 的 465萬 台 PC 中 ， 筆 電佔了 400萬 台 ， 比重 約 為 86 % ， 筆電 產品 確實 是 華碩 成長 的 主力 」
+終於 搞定 計劃書 寄給 老師 。 很久 沒有 自己 負責 嘴砲了 ThisIsAnEmoticonCode
+working ThisIsAnEmoticonCode
+ThisIsAHyperLink HIT 2010 徵稿 ~ 歡迎 對 資安 議題 有 興趣 的 玩家 能 一同 來 分享 ! ThisIsAnEmoticonCode
+原來 在我 出門 之後 我 隔壁 鄰居 在 樓下 跟 附近 的人 吵 停車位 ， 鄰居 拿 棍子 要打人 對方 拿刀 跟 他 對打 ， 然後 鄰居 就被刺 一 刀 ， 家人 說 樓下 大 門口 那邊 原本 一 攤 血 已經 洗掉 了 ThisIsAnEmoticonCode
+ThisIsAHyperLink 技嘉 科技 率先 符合 主機板 iPad 充電 功能
+報告 一 堆 ， 有夠 煩 還是 出門 算了 ThisIsAnEmoticonCode 該做的 跟 被凹的我 會 分辨
+前 幾 天 不 該 跟 老師 說 可以 接的 ， 接 了我 猜 在我 走 後 還是 會 繼續 給 我 很多 麻煩 ( 缺 人力 問題 ) ， 加上 做 這 個 對 原本 要 發 的 論文 也沒 幫助 啊 ， 不 知道 意義 在 哪裡 ( 某 台詞 不用 應用 在 此 處 ThisIsAnEmoticonCode ) 當時 沒 拒絕 ， 現在 也 無法 後悔 就是了 ~
+準備 吃牛 店 ， 柳丁大 差點 跟 錯 路人 走了 ThisIsAnEmoticonCode
+OK , 錢 省著別 再 買 手機 了 ， 等 團購 iPad ThisIsAnEmoticonCode 實機 真棒
+ThisIsAHyperLink MoreText.js - 一用就 愛上 的 中文 假文 產生器 # ThisIsAnEmoticonCode 自動 廢文 產生器 ( 誤 ) ? ? XD
+發現 Plurk 的 / Users/fetchUserInfo 暫時 掛了 ( HTTP 500 ) ， 可以 試著 ID 旁小 箭頭 看看 是否 沒 反應 ： ThisIsAHyperLink
+同樣 是 推廣 Linux ， 有人 就 是 可以 講得 很有 吸引力 、 提 一些 很酷的 玩意 讓人 想 主動 去 試試 ， 有 人就 一定 要 從 肚爛 微軟 肚爛 Windows 開始 ， 然後 叫 人 直接 放棄 原有 習慣 去 改用 Linux ， 不 聽他 的就 叫 執迷不悟 就 叫 嫩 。 推廣 效果 差異 可想而知 啊 ThisIsAnEmoticonCode 叫 人用 一 個 原本 不 熟的 東西 不是 這樣 叫 的
+事情 那麼多 ， 禮拜天 是 要 怎麼 聽 CIH ThisIsAnEmoticonCode
+公司 一直 不 改 錄用 狀態 ， 打去 問才 知道 一 堆 人 現在 才寄 資料 過去 ， 然後 公司 要 統一 作業 所以 拖到 現在 全部 人 狀態 還 沒 改 .....
+via ThisIsAHyperLink briian , ThisIsAHyperLink svchost viewer
+交大 那 個 課 我是 給予 肯定 的啦 ， 有 些 人說 不用 教 ， 但 所有人 都 不 教的 結果 就 是 一些 人的 觀念 變成 戀愛 不是 情人 就 是 仇人 。 當然 我們 絕 大多數 人 只能 直接 在 現實 生活 實習 啦 ， 自己 看著辦 XD
+新 番 「 迷糊 餐廳 」 ， 的確 有點 像是 無頭 騎士 裡的 新羅 + 臨 也 + 靜雄 直接 換棚 過來 繼 續演 ThisIsAnEmoticonCode 之前 一月 時在 wiki 看到 cast 就 決定 看 這 部 了 X D
+給 還在 熬夜 的 同學 ： ThisIsAHyperLink 很 無 釐頭但 還是 忍不住 笑了 ... 我 想 大概 是我 也 快 跟 影片 作者 一樣 低能 了 XDrz
+via ThisIsAHyperLink fcamel , ThisIsAHyperLink Java 1.7 - Whats new ? Release date , code examples and performance
+ThisIsAHyperLink 破解 露點照 釣美眉性侵 # 「 陳嫌 到案 時 表示 ： 『 只是 追求 一 種 成就感 ， 才 一再 扮演 駭客 ！ 』 」 駭客 是用扮 的話 就輸了啊 ... 話說回來 那 句 話也 不 確定 是 不是 記者 掰的 ThisIsAnEmoticonCode
+旁邊 一男一女 聊天 ， 男 的勸 女的 進入 職場 還是 要 繼續 學習 ， 女的 說 又 沒 興趣 幹 麻 學 ， 男 的說 那 妳 要 求神 保佑 不會 被 fire ， 女 ： ? ㄟ我 當然 不 想被 fire 啊 可是 我 也沒 興趣 學啊 ? 男 ? … 」 我 「 … 」 我學生 「 … 」
+ThisIsAnEmoticonCode 我 發現 老師 最近 請我 幫忙 check 的 某 論文 ， 似乎 就 是 去年 冬天 那 場 研討會 當中 ， 我 問候 .. 呃 .. 請教 對方 老師 的 那 份 work ..... 好處 是 這樣 我 就 不 怕 來不及 看完 啦 ThisIsAnEmoticonCode
+一 個 Python 輸出 問題 ： 為什麼 同樣 在 shell ， 「 print u'u 8133 ' 」 一 種 能 成功 顯示 日文 「 ? 」 另 一 種 會 編碼 失敗 呢 ？ 我 印 簡體字 也有 這 問題 ThisIsAHyperLink
+無 頭騎士 異聞 錄 13 ， 換 了新 OPED 仍然 不錯 ， 而且 又 有 新人物 登場 了 ThisIsAnEmoticonCode 好 期待 後 半 部 發展 ~
+ThisIsAHyperLink 地震 與噗 # 「 人們 實際 上是 有 可能 在 地震 到達 之前 就 從推特 、 噗浪 、 MSN 或 其他 方式 得知 地震 的 發生 。 ... 不幸 的是 ， 噗友 的 第一 反應 通常 不是 避難 ， 而是 回 噗 ... 」 中肯 ThisIsAnEmoticonCode
+via ThisIsAHyperLink abwang , ThisIsAHyperLink [ 小心 ] 屈成氏的 特價 陷阱
+在 某 個 討論 發現 大學生 跟 研究生 的 看法 真的 明顯 不同 XD 我 曾經 也 是 技術 至上 覺得 資工 的 程式 弱很 奇怪 ， 後來 認清 1 . 技術力 在 自己 之上 的人 都很 謙虛 沒嫌我了 ， 我 更 沒 資格 嫌 別人 2 . 程式 弱 的人 很有 可能 在 自己 讀不懂 理論 的時候 偏偏 是 救星 。 所以 後來 我 就 想開 了 ， 你 幫我 我幫 你 互相 幫 ~ 啥 都 不 肯 努力 的 除外
+having dinner at chilis
+半夜 河道 上 看到 最多 的好 消息 就 是 iPhone OS 4有 多工 了 ~ good news ~
+如果 今天 被摔在 地上 的 不是 顏如憶 ， 換 個 長相 不 討喜 的 男人 ， n 字經 髒話 不用 像顏罵得 那麼多 ， 少 一半 就 好了 ， 那 現在 單方面 挺 其中 一 方 的人 比例 肯定 會 大 不同
+開始 開會 。
+學長 說他 要 做 BIOS loader 我 看成 他 要 升 BIOS leader 了 ..
+好笑 旁白 的 停車 影片 ThisIsAHyperLink # &amp; quot;reverse lar~reverse reverse * n~...you driv ing lexus RX 300 you dunno how to reverse meh&amp;quot ; ThisIsAnEmoticonCode
+來 吧
+原來 十萬三千 冊 的 內容 才 那麼少 啊 ？ ？ XD 「 魔法 禁書 目錄 ? ? ? 容量 ? 481.04 GB ? ? 。 」 ThisIsAnEmoticonCode ThisIsAHyperLink ? HDD ? ? ?
+原來 ElementTree.tostring 成功 產出 的 XML 內容 ， 不 保證 能用 ElementTree.fromstring 成功 讀回 來 ， 因為 原始 內容 若 有 特殊 字元 ( 如0 x 08 ) ， 讀取 時 會 出錯 &amp; quot;not well-formed ( invalid token)&amp;quot ; ..
+Yahoo 斷詞 API 呼叫 一 次 的 資料 上限 不 知道 是 多少 ... 傳 將近 500 K 再 urlencode 之後 的 資料 過去 ， 回來 的 XML 只有 一 行 註解 沒有 任何 element
+ThisIsAHyperLink 2010 SA@Taipei 第二 發 駭客 終極 解碼 - CIH at ( 4 / 18 日 )
+在 Plurk Search 輸入 &amp; quot ; 反 組 譯 &amp; quot ; 找到 一 堆 以前 沒 follow 的人 ThisIsAnEmoticonCode
+[ 轉 ] ThisIsAHyperLink 你 怎麼 能 這樣 踐踏 自己 的 專業 # 回應 裡 有 梗啊 ... 德明 ? 另外 還 有人 提到 資安 動畫 金像獎 XD
+via ThisIsAHyperLink checko , ThisIsAHyperLink Why the iPad and iPhone don ’ t Support Multitasking
+ThisIsAHyperLink 昨晚 宣傳 的 「 自由 軟體 技術 充電 站 - ThisIsAHyperLink Wargame 大亂 鬥 – 網路 安全 與 主機 漏洞 模擬 系統 」 網 頁 上 已 顯示 「 本 活動 已 停止 報名 」 ， 柳丁大 加油 囉 ThisIsAnEmoticonCode
+「 人人都 可以 是 Hero ， 但 不是 誰 都 能 成為 Legend 」 照樣 造句 ： 「 人人都 能 成為 Legend ， 但 不是 誰 都 能 掌控 Desire 」 ... 一 年 前 的話 可以 說 「 人人都 變得 出 Magic ， 但 不是 誰 都 能 成為 Hero ( 遠目 」
+歡迎 大家 支持 柳丁大的 場次 : 自由 軟體 技術 充電 站 - ThisIsAHyperLink Wargame 大亂 鬥 – 網路 安全 與 主機 漏洞 模擬 系統 at 2010.04 . 18 ThisIsAnEmoticonCode
+這 兩 天 在路上 剛好 看到 不少 挑染 紅色 的人
+ThisIsAHyperLink 30 天 打造 OS ！ 作業 系統 自作 入門 ， 一兩 週 前 我 查 天瓏 網站 那時 還 沒有 ， 現在 有了 ， 但 今天 去店裡卻 忘記 找 這 本 XD
+晚上 去 天瓏 翻了 之前 想找 的一 本還算 新的 書 ThisIsAHyperLink Mobile Application Security ， 包含 Android , iPhone , WM , BlackBerry , SymbianOS 平台 和 其他 一些 行動 議題
+這 氣溫 四月 ？
+冏 ... 開始 咳嗽 了 ThisIsAnEmoticonCode
+寫 一 晚 code 真的 餓了 orz 出門 找 東西 大吃 一下 ThisIsAnEmoticonCode
+感冒 的時候 果然 就 只能 寫 程式 吧 ， 做 其他 事情 都 會 想睡
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink shakalaca : ThisIsAHyperLink github add S VN support !
+ThisIsAHyperLink 家長 挺狠師 被摑童恐 轉學 , ThisIsAHyperLink 控師 、 挺師 家長 互嗆 # 對 小孩 飆 幾 個 巴掌 真的 過當 了 ， 校方 說 啥 也 不 重要 ， 只是 我很 好奇 某些 人 評價 這 件 事的 標準 XD
+ThisIsAHyperLink Google Chrome 要 整合 Flash Player # 「 使用 者在 下載 Chrome 時 同時 會 接收到 最 新版 的 Flash Pl ayer ， ... 用戶 亦 可 透過 該 瀏覽器 的 自動 更新 機制 更新 Flash Player 」
+ThisIsAnEmoticonCode 四月 了 ， 說 好 的 論文 呢 ？ ThisIsAnEmoticonCode
+via ThisIsAHyperLink shakalaca , ThisIsAHyperLink Stack Overflow API Private Beta Starts
+sqlite 3 module 滿 好用 的啊 ~
+不 知道 這 幾 個 月是 真的 對 這 類 研究 沒 興趣 了 ， 或者 只是 暫時 缺乏 誘因 導致 沒勁 而已 ， 每 到 中壢 就 覺得 一直 在 空轉 。 做 別人 家的 研究 倒 覺得 有趣 ， 但 要 當 別人 家 助理 卻 也 不滿 一 期 了 ThisIsAnEmoticonCode 期待 暑假 後的 新 環境 吧 ThisIsAnEmoticonCode
+昨天 只是 跟 學生 提到 wall 這 個 指令 ， 沒想到 今天 他們 班 上課 其 他人 無意 間 得知 後 就 一直 玩 這 個 。 我 對不起 該 堂 任課 老師 ThisIsAnEmoticonCode
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink alvin 問 最近 很 常 收到 警察 的信 跟 我們 要 帳號 資料 ( IP , 噗 集碌 etc ) ， 到底 台灣 的 隱私權 法律 是 怎樣 運作 的阿 ? 在 北美 是 需要 法院 授權 ( Court Order ) 才 可以 給 的 ， 台灣 不一 樣嗎 ? [ 略 ]
+柳丁大 真的 來 問我 對方 未 成年 嗎 ？ orz ... ....... 我是 那 種 人嗎 ThisIsAnEmoticonCode
+跟 家教 學生
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink plurkapi shares ThisIsAHyperLink libplu rc - C implementation of Plurk's API
+太晚 回家 , 幸好 還 有 捷運 XD
+昨天 夢到 在讀 paper ， 但我 平常 明明 幾乎 沒在 看 ThisIsAnEmoticonCode （ 老師 表示 ： QQ ） 來去 咖啡廳 coding ~
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink HTCHERO 說 HTC Hero 預計 將 於 四月 二十六 號 開放 升級 Android 2.1 # 看 一 堆 說想丟想賣想買 iPhone 的 怎麼 不 快 去做 XD 不過 最 心酸 的 還是 Magic user
+ThisIsAHyperLink link 「 華碩 旗下 新款 主機板 將全線 支援 USB 3.0 規格 」 意思 是 說 某人 又 多 個 東西 要 K 了 ThisIsAnEmoticon Code
+我 今天 自己 的 預感 成真 了 ..... 從 早上 就 覺得 自己 今天 不 順 ， 連 思考 方式 都 有點 反常 ， 果然 一直 到 最後 都 不 順 。
+錢櫃 吃 牛肉麵 ， 好 餓
+ThisIsAHyperLink 「 當一 個 人 開始 講 這 是 為了 愛 為了 正義 blahblah 的時候 你 最好 小心 聽他 到底 在講 甚麼 」
+ThisIsAHyperLink 史上 20 大 造假 新聞 照 事件 _ 多圖
+終於 能 開始 跟眾 前 ( 錢 ) 輩 一起 搭 Android 手機 的車了 ~ orz
+ThisIsAHyperLink 亞洲 新 海纜 快 啟用 Google 獨享 20 % 頻寬
+還 不 習慣 操作 電容 螢幕 ... 手指 看起來 好笨 ThisIsAnEmoticonCode 一直 按錯
+my student is always my lucky star ThisIsAnEmoticonCode
+今天 不 戴 隱形眼鏡 出門 啦 ， 昨天 太 刺眼 現在 還 很 想 閉上
+從 ThisIsAHyperLink qeber 的 ThisIsAHyperLink 噗 得知 O'Reilly 即將 有 本書 ThisIsAHyperLink L earning Windows Phone Programming
+初探 ThisIsAHyperLink Yahoo ! 奇摩 知識 + API 中 ...
+當 兩 個 人 都 把 錢包 花光 的時候 該1 . 當然 馬上 提款 2 . 回家 好了
+昨天 知道 今天 可能 會 有 這 種 天空 ， 今天 還 戴 隱形眼鏡 真是 自討苦吃 ThisIsAnEmoticonCode
+下 週 又 到 了 例行 排定 報 論文 的 日子 ， 但我 跟 malware 已經 不 熟啦 ..... ThisIsAnEmoticonCode
+Opera Mobile 10 不錯 用 ~
+ThisIsAHyperLink 德州 駭客 入侵 電腦 系統 遠端 癱瘓 100多 台 汽車 # 以後 出現 雲端 車隊 、 殭屍 車隊 也 不是 不可能 了 ， 至少 前 陣子 我們 已經 有了 ThisIsAHyperLink 房市 雲端 運算 ...
+ThisIsAHyperLink Odds Are , Its Wrong-Science fails to face the shortcomings of statistics
+開會 前 20 分 才 發現 某些 機子跑我 程式 無效 ， 挑戰 心臟 orz ， 幸好 有 備案 ThisIsAnEmoticonCode
+ThisIsAHyperLink 台南 女中 近 2千 學生 集體 「 脫褲 」 抗議 # 就 Gundam 00 的 觀點 來 說 ， 這 教官 就 是 完成 第一 階段 目標 的 天人 ( Celestial Being )
+ThisIsAHyperLink ReP ThisIsAHyperLink thebz 1 分享 : 加入 他們 的臉書 一定 會 很有 文學 氣質 啊 ThisIsAHyper Link # ThisIsAnEmoticonCode
+ThisIsAHyperLink ReP : ThisIsAHyperLink regionbbs : 照 這 種 態勢 來 看 ， 也許 再 過個 幾 年 ， Windows Form 會在 Windows 世界 中 徹底 消失 ... 由 WPF 完全 取代 。
+這樣子 的話 ， 也 算 符合 我 原本 的 理解
+案子 終於 準備 要談了 ， 兩 天 內要 準備好 ppt &amp; amp ; demo ThisIsAnEmoticonCode
+ThisIsAHyperLink 這 好吃 嗎 ？ 看 了好 想吃 布丁
+今天 無法 去 中壢 meeting 因為 在 捷運站 同時 碰到 前後 女友 . . . . .
+ThisIsAHyperLink 轉噗 : ThisIsAHyperLink 2010 三 月份 的 SA@Tainan Web 安全 與 瀏覽器 安全 心得 分享 - Kuon ( 3 / 28 )
+第一 次 看到 小紅 傘 更新 完跳 廣告 視窗 的 內容 是 中文 的 ： ThisIsAHyperLink
+晚上 十一點 睡 半夜 兩 點 多 醒 ， 就 順便 吃了 一 個 三明治 ThisIsAnEmoticonCode
+真的 沒事 ， 只是 還是 把 PowerPoint 關了 打算 先 睡好 了 ...
+家教 學生 的 Chrome 裝了 一 排 extension 剛在 跟我 表演 ＠ ＠ 好像 該 研究 一下 了 ThisIsAnEmoticonCode
+讀取 不 存在 的 plurker 仍 會 回傳 200 ， 但 讀取 banned plurker 則 會 回傳 404
+好 久沒 實作 BFS ... 寫 一下
+師大 21世紀 烤雞 ThisIsAnEmoticonCode
+今天 晚上 噗 浪花 蓮真紅 ..... ThisIsAnEmoticonCode
+那 個 被 保溫 瓶 打到 的 感覺 很痛 XDDD
+魔 境 夢遊 3 D ＠ 16 : 00 ＠ 威秀
+嘴饞 了 ..... 該 吃嗎 ？ 但 又 不 想 太晚 睡 ， 得 早起 ThisIsAnEmoticonCode
+via ThisIsAHyperLink wiselysong , ThisIsAHyperLink 當你 輸入 一 個 網址的 時候 ， 實際 會 發生 什麼 ? ThisIsAnEmoticonCode
+ThisIsAHyperLink 微軟 電子書 Courier 也 來了 ， Q3/Q 4 上市 | T 客邦
+ThisIsAHyperLink HTC Phones Pre-installed With Mariposa Bot Client
+剛才 我 對面 鄰居 來 敲我門 ， 問我 關於 隔壁 鄰居 的 事情 ， 問我 說 隔壁 是 不 是很吵 ， 另外 也 提到 我上 學期 納悶 過的 事情 ， 隔壁 有 兩 個 人 卻 收 一 份 水電費 而已
+ThisIsAHyperLink 必須 保衛 摩斯 漢堡 ！
+小 七 新版 的 漢堡 。 雞 的多加 蛋 、 豬的變 薑汁 、 牛 的明 早 再 嘗試 ~ ThisIsAnEmoticonCode
+學弟 報 paper ： 「 現在 我們 來 講拆 英文 的 部份 」 眾人 ： 「 蔡 英文 ？ 」
+meeting 中 ， 我 超餓
+開會 邁入 三 小時 ， 當然 晚餐 後的 開會 我 一如 往常 想睡 ThisIsAnEmoticonCode 今天 有 把 對方 導 到 我 原本 想的 方向 去 ThisIsAnEmoticonCode
+助理 教授 果然 熱血 … 我學生 應該 在 lab 是 台柱 了吧 ThisIsAnEmoticonCode 我 也 要 進修 ThisIsAnEmoticonCode
+看來 晚上 會 有點 有趣 ~ 只是 在吃 難吃 的飯 之前 又 要 先 填飽 肚子 一半 了 ThisIsAnEmoticonCode
+ThisIsAHyperLink ?透 網絡 “ 犀利 哥 ” 的 真實 背 后 令人 心酸
+ThisIsAHyperLink 當 部落 客 變成 神 ， 我們 應該 膜拜 她 ？ ...
+西門 紅樓 ， 這邊 有 創意 市集 唷
+兩儀 式 ： 「 不 好的 預感 往往 會 引發 不 好的 現實 」 ( 空之 境界 - 殺人 考察 ( 前 ) ) # 但 人要 總是 維持 樂觀 倒 也 挺難的 ..
+via ThisIsAHyperLink Jimlee : ThisIsAHyperLink 學會 投資 . 買 房子 不如 租 房子
+ThisIsAHyperLink # 這 小弟 跳 真棒 ， 太 佩服 了 ! !
+找 人 ~ 我 想 找對 Python 任一 套 GUI 使用 順手 或 對 應用 Python 分析 資料 有 經驗 的人
+殘 念 。 不過 這 次 狀態 正常 ， 不會 因 事件 而 形成 無法 睡眠 的 狀況 ThisIsAnEmoticonCode
+好好笑 ~ ~ ThisIsAHyperLink 三 次元 老婆 與二 次元 老婆 by 2 CH 鄉民
+這 次 Apple 告 HTC 侵犯 20 項 專利 ， 有人 想起 去年 ThisIsAHyperLink 諾 基亞 控告 蘋果 侵犯 10 項 專利 嗎 ？ XD
+請問 一下 呆呆 蝦的 ID 怎麼 不見了 ？ 自 爆了 ？
+今天 書報 是 CPU 資管 的王旭正 教授 講 Digital Evidence Investigation in Multimedia-Forensics
+魔 境 夢遊 Alice in Wonderland ， 2010 - 03 - 05 ( 五 ) 上映
+一 個月 內要 交 一 篇 上限 一萬 字的 無聊 報告 ， 稿費 未知 ( 真的 有嗎 ＠＠ ？ )
+via ThisIsAHyperLink fcamel - ThisIsAHyperLink 我學 Machine Learning 的 方法
+等等 又 要 meeting 了真 煩 ( 顯示 為 任性 中 ThisIsAnEmoticonCode )
+想開 很多 了 ， 該 睡 ThisIsAnEmoticonCode 有 些 事 知道 的 當下 不會 感到 比較 快樂 ， 反而 只有 無限 苦悶 。 但 就 這樣子 狠狠 讓 自己 去 面對 、 然後 難受 、 最後 靜下來 好好 認清 現況 並轉 換回 正面 情緒 ， 還是 比 無知 的 活下去 踏實 多了 ThisIsAnEmoticonCode 一直 都 是 這樣 度過
+真的 是好 樣的 ThisIsAnEmoticonCode ..... 但 也 確實 優秀 ， 誠心 希望 你 未來 好 好過 ThisIsAnEmoticonCode serious rival
+傍晚 開始 頭就 很痛 ， 然後 就 睡了 ， 後來 的 感覺 像是 飛到 別的 星球 逛逛 之後 才 回來 ， 感覺 過 了好 久 ＠ ＠
+理性 的 瞬間 ， 要 好好 把握 用來 把 正事 辦一辦啊 ThisIsAnEmoticonCode
+優秀 的 、 棘手 的 障礙物
+「 空之 境界 」 動畫 我 喜歡 ~
+老師 幾 年 前問 修課 學生 和 lab 學生 x 86 可不可能 產生 R^X memory region ( 我 沒 打錯 ， 不是 W^X )
+認識 高中生 ( 例如 ThisIsAHyperLink p 8361 ) 的 缺點 ， 就 是 平常 再 怎麼 覺得 自己 歲數 還 不 算大 ， 只要 一 想到 真正 的 高中生 在 眼前 就 難以 說服 自己 了 ThisIsAnEmoticonCode
+eating 博多 拉麵 ( 炸雞 口味 )
+系 辦說 要 申請 同一 堂 課的 第二 個 助教 需要 修課 人數 達到 一百 人 ThisIsAnEmoticonCode really ! ?
+我 剛才 也 點了 今天 轉噗 率很高的 那 個 「 夜市 人生 」 片段 ... ThisIsAnEmoticonCode
+ThisIsAHyperLink 戰國策 遭 指控 ： 代管 網站 硬碟 毀損 ， 資料 救 不回
+一 種 莫名 的 失落感 ThisIsAnEmoticonCode
+理性 會比 衝動 容易 獲得 最後 的 幸福 嗎 ？ 明 早 九 點 有 Linux kernel 之 interrupt handling 課 ， 但我 現在 還 想 再 coding 一下 ... 呵
+ThisIsAHyperLink 機器人 與 嵌入 式 系統 / BootLoader 與 驅動 程式 設計 via ThisIsAHyperLink jserv
+G 老師 那 篇 .. 被 今日 我最 噗 推 高高 出來 了 ThisIsAnEmoticonCode
+ThisIsAHyperLink www.ppv5.com / # 「 論文 完成 后 30 天內 ， 如 您 無 其他 要求 修改 ， 公司 將把 一切 論文 相關 的 往來 資料 ， 以 美國 軍方 用 的 『 檔案 粉碎 軟體 』 ， 把 所有 檔案 都 清除 。 因此 超出 保存 期限 後 ， 如 您 不慎 丟失 論文 檔案 ， 就算 找來 幫陳冠希 修理 電腦 的 工程師 ， 也 無法 從 我們 電腦 找回 您的 檔案 。 」
+ThisIsAHyperLink 破解 ！ 買 屋 10 大 陷阱 - Yahoo ! 房地產
+吃 早餐 ~ 做事吧 ~
+喝 飲料 頭 重 了 ， 強迫 早睡早起 行動 開始 ThisIsAnEmoticonCode
+一 到 中壢 房子 大門 一 開 看見 電梯 口 前 滿 地 被 動物 咬 破 垃圾袋 掉出來 的 垃圾 ... 哪 個 * * 出來 面對 ! !
+ThisIsAHyperLink Perhaps We Should Hold Apple And Other U.S . Companies Responsib le For Foxconns Crimes
+用 理性 不斷 琢磨 考量 ， 的確 能 盡量 減少 一 件 事情 發生 失控 的 機會 ， 但是 ， 有時候 或許 所謂 的 衝動 跟不 成熟 ， 反而 才 會 讓 一 件 膠著 的 事情 有所 突破 也 說不定 ， 都很 難說 啦 ... ThisIsAnEmoticonCode
+講 電話 講 一半 隔壁 放 鞭炮 ..... 超大 聲 = = 家人 才剛睡 的說 ...
+剛才 跟 著敗 下去 … 終於 買到 想很久的 Playboy 鞋 ThisIsAnEmoticonCode
+逛完 SOGO , 然後 今天 要 教用 Python 操作 XML .
+忠孝 復興 SOGO 「 陪 」 shopping 中
+跟 ThisIsAHyperLink ralph 970 去 天瓏 結果 碰到 煩躁 的 ThisIsAHyperLink babykoala 213 她拿 純白 的 HTC Magic 說很爛 ThisIsAnEmoticonCode
+睡 不著 所以 順便 安裝 一下 睡 前 下載 的 ThisIsAHyperLink Keil C 51 v 9 ， 然後 跑個 Hello World 也 確定 可用 。 那再 回去 睡吧 ~ ThisIsAHyperLink
+原來 我 又 失眠 了 ， 一些 話和 畫面 不斷 冒出來 。
+有 些 事 僅存 的即效 解法 只剩 完全 斷絕 聯絡 了 ， 很 重要 的一 點 是 ， 這 包括 拒絕 被 對方 找到 ， 而 不只 是 自己 不再 主動 就好 而已 。 那 往往 是 麻煩 還 會不會 無限 延續 的 關鍵 。
+我的 高熱 筆電在 一 整 年 當中 ， 也 就 只在 這 個 季節 這 種 天氣 ， 讓 我 不 用為 它的 散熱 傷腦筋 ， 還 希望 它 再 熱點
+最近 很 喜歡 聽莫文蔚的 頭號 粉絲 ThisIsAnEmoticonCode ThisIsAHyperLink
+很 討厭 VC 有時 秀 斗 要 手動 砍掉 ncb 檔 才 能 恢復 Intellisense 的 準度 ...
+不會 COM 結果 就 一 堆 M $ 的 東西 玩不 動
+refactoring 一 整 天 ， 時薪 應該 早 就 不成 比例 了 ， 就 當 自己 練習 開心 也好 XD
+沒 很晚 睡 ， 卻 睡 很晚 ThisIsAnEmoticonCode 雨 還是 一樣 大 ， 不過 心情 恢復 了 ThisIsAnEmoticonCode
+WM 6.5 的 IE 比 6.1 改良 不少 ， 另外 也 可以 看 Flash 只是 播得 有點 慢 ， 不過 之前 一些 在 操作 上的 問題 都沒 了 也變 比較 順 。 刷新 的 ROM 真的 省了換 新機 的錢 ， 這 台 應該 算是 從 Touch Pro 變 Touch Pro 2 了吧 .. XD
+平常 下 大雨 我 都沒 什麼 意見 ， 覺得 大不了 待在 家玩 而已 ， 但 今天 的 雨我 特別 感到 討厭 .....
+很 累 的 出去 吃飯 ， 乾 了 反而 嗨了 一點 ， 不過 回來 又 累了 ThisIsAnEmoticonCode 看來 喝不 夠多
+心情 不好 .. 所以 把 我的 Touch Pro 改刷成 WM 6.5 的 ROM ( 原本 WM 6.1 )
+「 無論 答 哪 句 話都 知道 對方 會 怎麼 打 回來 ， 卻 還是 又 被問 」 的 感覺 。
+過年 期間 居然 比 上學 認真 ... 大概 太 無聊 了吧 XDrz 回來 了再 來 繼續 測試 手機 堆
+still debugging ThisIsAnEmoticonCode
+過年 兩 天 太 無聊 都在 try objdump ... 改看 Python 放鬆 一點 好了 ThisIsAnEmoticonCode
+看 了 噗友 分享 的 ThisIsAHyperLink wtfjs.com 之後 真的 想講 wtf ..... ThisIsAnEmoticonCode
+所以 是 大年初一 情人節 ？ ？
+一來 台中 就 瘋狂 過敏 ， 每 年 都 這樣 ， 已經 穿 很 多了 orz
+有 朋友 在 凌晨 準時 聽到 鞭炮 聲 ， 我是 準時 聽到 隔壁 男女 開始 互相 破口大罵 ThisIsAnEmoticonCode
+ThisIsAHyperLink Neuron PE Disassembler ThisIsAHyperLink
+IEInspector HTTP Analyzer 開 stand-alone 監控 全部 process 的 http 連線 時 會 讓 Chrome 卡住 ， 連 已 載入 完成 的網頁要重繪 都變 超 慢速 ..... 還是 別 裝好 了 XD
+ThisIsAHyperLink 陪妻買 年貨 半路 溜去 買春 # 這 新聞 會 讓 最近 所有 買 年貨 時 聽到 另 一半 去 打麻將 的人 擔心 嗎 ThisIsAnEmoticonCode
+搭 文湖 到 「 南港 展覽館 」 站 下來 搭 免費 公車 到 「 南港 」 站 板 南線 回家 … 體會 一下 到 中研院 的 感覺 XD
+原來 先前 Fate 電影 版 預告片 裡面 那 首 熱血 的歌 ， 在 ThisIsAHyperLink Fate/stay night TV song collection 裡面 有 ， 第十 首 ~ Imitation ~ ThisIsAnEmoticonCode
+ThisIsAHyperLink 完全 踢爆 ！ Facebook 行銷 黑暗 兵法 大公 開 ！ - MMDays
+昨天 說 Touch 2 檔案 總管 切 到 FW Windows 改 排序 就 六 分鐘 ， 剛剛 用 Toshiba TG 01 做 同樣 的事 只 花了 一 分鐘 ... CPU 1 GHz 的威能嗎 ？ 同 是 WM 6.5 系統
+正 想去 中壢 打掃 , 看 ThisIsAHyperLink maydaymo 說 那 在飄雨 ＠＠
+ThisIsAHyperLink 有人 要買 這 張 椅子 嗎 ， 會 變型 男 喔 ThisIsAnEmoticonCode
+花了 一 天 玩 ThisIsAHyperLink TinyXml ， 感覺 算是 不錯 用啦 ~
+推掉 手機 廠了 ， 要 寫 三 年 上 層 AP 真的 不 是我的 興趣 ...
+Touch 2的 檔案 總管 切 到 FW Windows 之後 ， 把 排序 規則 從依 名稱 改成 依 類型 ， 竟然 等 了 六 分鐘 才 完成
+剛才 在 紐約 紐約 吃 COLD STONE , 點了 四 級 甜度 的 , 超 甜 ThisIsAnEmoticonCode
+現在 才 發現 手機 GoogleMaps 也 能 看 街景 了 ThisIsAnEmoticonCode
+going to 101 .
+搖晃
+我 此刻 非常 討厭 死纏 爛 打 的人 .....
+不 透過 RAPI ， ThisIsAHyperLink 從 電腦 上 直接 讀取 已 連接 的 WM 手機 型號
+ThisIsAHyperLink 這 個 無 頭騎士 coser 扮得超像
+悶 在心裡 的話 跟 當事人 說了 之後 心情 好了 不少 ... ThisIsAnEmoticonCode
+消 ? ? 、 先輩 ? ? 。
+必勝 客 準備 吃到 飽
+會 影響 自己 正向 力的 門 真的 不能 常常 / 輕易 打開
+嗯 可以 睡了 ， 心情 平靜 。 題外話 ， 學 網是斷 了嗎 ？
+用 minidom 和 ElementTree 各 有 一 套 建立 / 修改 / 讀取 / 儲存 XML 的 方法 ， 只是 稍微 試了 一下 而已 ， 到底 哪 套 比較 優我 還 不能 判斷
+ThisIsAHyperLink 趨勢 創 騰雲 揮軍 亞洲 攻 Cloud OS
+ThisIsAHyperLink SPI Dynamic 創辦人 離開 HP 後 ， 選擇 臺灣 的資 安 公司 「 今日 （ 2 / 4 ） Caleb Sima 在 接受 iThome 專訪 時 表示 ， 他 將 接任 阿碼 科技 執行長 一職 ， 而 原 執行長 黃耀文則 轉任 技術 長 。 」
+晚上 開始 來 測 WM 6.5 手機 了 ， 但 現在 要 先 去 吃 五彩 鮮蔬 牛肉 堡 ( 顯示 為 餓 到 即將 暴 走 中 )
+從 ThisIsAHyperLink Kudo 的噗 得知 原來 gcc 的 thiscall 和我 原本 所 知道 的 thiscall ( VC 的 ) 不一 樣 ： gcc 放 this 在 stack top ， VC 存到 ECX 。
+累了 一 天 ， 還是 要 繼續 接著 昨天 看 的 NLTK ThisIsAnEmoticonCode
+用 xml.etree.ElementTree 來 parse XML file 也滿 方便 的
+只 因為 論文 裡 有 Sabre ( 音同 Saber ) 字樣 所以 今天 報了 這 篇 ThisIsAHyperLink Analyzing Information Flow in JavaScript-based Browser Extensions
+一 到 中壢 又 明顯 感到 比 台北 冷了 orz 另外 每週 來回 都背 很重 ， 我 可能 哪 天 受不了 真的 去 買一 台新 電腦 放家裏 ... ThisIsAnEmoticonCode
+ThisIsAHyperLink CNNIC CA ： 最最最 嚴重 安全 警告 ！
+這 幾 天 在想 ， 機會 變 多了 究竟 是 轉機 還是 陷阱 前的 誘惑 呢 ？ 不過 學生 告訴 我 說 其實 這 都 是 決定好 的 ， 無論 怎麼 選 ， 重要 的是 認真 走下去 。
+ThisIsAHyperLink OrangeS 一 個 操作 系統 的 實現 ， 這 是 以前 「 自己 動手 寫 操作 系統 」 的 續集 ， 除了 涵蓋 前一 版的 內容 也有 多出 新的 章節 。 # 話 說 難道 是 柳丁大 高中 畢業 就 寫出 OS 了嗎 ( 大誤 )
+第一 次 吃 MOS 五彩 鮮蔬 牛肉 堡 感覺 還 不錯 ThisIsAnEmoticonCode
+睡 前來 丟個 書名 ： ThisIsAHyperLink Windows 內核 情景 分析 - 採用 開源 代碼 ReactOS ， 這 本我 今天 有 看到 還 有 貨 ， 但 今天 我 已經 買 太多 就 沒 買 那 兩 本 ， 因為 再 加那上 下 兩 大 本 會 提 很重 ThisIsAnEmoticonCode 對 Windows 核心 有 狂熱 的 同學 可以 去翻 翻看
+ThisIsAHyperLink
+2 / 1了 ， 這 個 月總 該 至少 看 一 本書 吧 ThisIsAnEmoticonCode 貪多的 願望 通常 都沒 好 結果 ThisIsAnEmoticonCode
+感謝 ThisIsAHyperLink ralph 970 告知 ThisIsAHyperLink cURL and libcurl ， 不然 我 差點 要 為了 一些 簡單 功能 自己 從頭 寫 一 堆 ( 畢竟 我 現在 工作 並 不是 要 練 socket programming )
+買 五 本 書才 一千二 … 但更 感動 的是 總算 找到 之前 沒貨 的書 ~
+簡單 的 目標 終於 也 變得 日益 曲折 ... 出門 接受 陽光 洗禮 一下 好了 ThisIsAnEmoticonCode 今天 若 不 回歸 自我 、 暴衝 一下 ， 週二 報告 可是 會 開天窗 的 XD
+新聞 在報 釘宮 ... 但我 從來 沒 愛過 釘宮 的說 XD
+HTC 上了 … 為什麼 等我 不 抱 希望 一 個月 後 才 打來 呢 orz 在 這 當中 我 都 回過 ASUS 的 offer 了 … 這 ? ?
+目前 要 兼 QA 了 ThisIsAnEmoticonCode ... 負責 7隻 WM 新購 手機 ( 6.1 / 6.5 ) 要測 程式 ， 但 不 包括 Touch HD 2 就是了 XD
+ThisIsAHyperLink 網路 殭屍 來襲 資訊 安全 亮 紅燈 # 「 &lt; b &gt; * * 定時 重新 安裝 作業 系統 * * &lt; /b &gt; ， 將 重要 資料 備份 才是 最好 的 方法 」 其實 我 個 人 滿 討厭 重灌的 ThisIsAnEmoticonCode
+宵夜 時間 ， 出門 順便 把 集點卡 兌換 掉 。
+watching 蘋果 核戰
+貼 了 三 張 7 - 11 集點卡 ， 還 多6點 ， 晚 點 宵夜 時間 去換 ThisIsAnEmoticonCode
+一月 新番 「 無頭 騎士 異聞 錄 DuRaRaRa ! ! 」 看了 三 集 還 滿 有意思 的 ， 雖然 我 又是 先 看了 聲優 名單 才 決定 追的 ... XD 對了 它的 ED ( 松下 優也 - Trust Me ) 真的 不錯 聽 ThisIsAHyperLink
+言多必失 ， 很 疲勞 時我 真的 不 該 講話 ......
+翻譯 翻 得很 餓 ， 等等 一定 要 吃
+厭惡感 。
+總之 就 是 沒 什麼 好怕的啦 ， 不是 嗎 ThisIsAnEmoticonCode
+To UNARY : 小鬼 ， 這 就 是 現實 啊 ， 任何 事都 一樣 ， 你 逃不了 的 。 你 很 有心 ？ 抱歉 別人 也 非常 有心 ； 你 有在 努力 ？ 你的 對手 早你 好幾 年 就 在 努力 了你 還 確定 你有 多 行 ？ 可是 ， 真的 想要 得到 什麼 的話 就 不能 被 雜念 打敗 。
+原來 μ Vision 4 那 個 Hello 範例 程式 的 printf 會 輸出到 UART # 2 ， 一 開始 不 知道 印到 哪 去 ... ThisIsAHyperLink
+ThisIsAHyperLink 1.0 . 0.0 / 8 被分 配給 APNIC 了 from ThisIsAHyperLink Gea-Suan Lin ’ s BLO G
+拖 半年 才 出的 戰國 BASARA # 13 總算 看到 了 … 不知 第二 季 哪時 出
+對 自然 語言 處理 有 興趣 的話 ， 可以 參考 ThisIsAHyperLink Natural Language Processing with Python 這 本 書 ( 使用 Python 搭 N LTK )
+買了 EOS 500 D 的書 給 老爸 他很 高興 ThisIsAnEmoticonCode
+本 期 資安 人 有 PD 和 GD 喔 ThisIsAnEmoticonCode
+C : 重組 完 之後 剩餘 空間 從 5 G 變成 13 G
+ThisIsAHyperLink # 「 正在 分析 磁碟 4的1 」 ? ? ?
+ThisIsAHyperLink EverNote 3.5 雲端 同步 筆記 資料庫 新版 軟體 詳 解 ， 支援 中文 搜尋 | 電腦 玩物
+ThisIsAHyperLink 寫 Python 測試 碼的好 幫手 from ThisIsAHyperLink fcamel ’ s blog
+超 睏 ， 一早 家裏 有 客人 所以 我 無法 安靜 睡 ， 斷斷續續 到 中午 然後 被 叫 起來 一起 出門 吃飯 。 然後 現在 想 繼續 回去 睡了 ThisIsAnEmoticonCode
+新書 ThisIsAHyperLink Wireshark 網路 協定 分析 與 管理 能請 一些 網管 大大 有空 鑑定 一下 這 本 嗎 ThisIsAnEmoticonCode . ..
+ThisIsAHyperLink 歐盟 終於 批准 甲骨文 併購 昇陽
+又 冷了 , 趕緊 逃離 中壢 ＠＠
+飢寒 冷冬 終於 暫時 解除 ... 可以 去買 衣服 鞋子 了 ThisIsAnEmoticonCode
+我 待會 一點 都 不想 跟 那些 人餐? … 所以 我打 算 現在 先 吃 七 分 飽
+在 火車 上被 旁邊 打瞌睡 的 頭部 攻擊 …
+肺活量 和肌 耐力 都 不足 啊 ThisIsAnEmoticonCode
+第一 次 在 中壢 吃 MOS ... ThisIsAnEmoticonCode
+有 些 無奈 和 痛苦 是 追求 目標 時 附加 的 禮物 ， 堅持 下去 的 結果 未知 ， 但 現在 放棄 卻 會 馬上 輸 ， 所以 就 .. 考驗 自己 吧 ThisIsAnEmoticonCode
+平常 超 親和 的 學弟 ， 現在 身為 Linux 課 助教 ， 結果 我看 到來 demo 的 那些 修課 學生 都對他 又 更 輕聲 細語 耶 ... 第一 次 發現 學弟 的 威嚴 感 ThisIsAnEmoticonCode
+學長 報 論文 講到 Limit of Related Work 我 又 不 小心 聯想到 Fate 的 Unlimited Blade Works 了 ... 中毒 相當 深
+中午 去 中壢 之前 ， 要 先 去 小屈找 &lt; b &gt; ** 可伶可俐清痘凝露 ** &lt; /b &gt;
+剛才 我 學 生給 我看 使用 PDF-XChange Viewer 讀 論文 劃 重點 標色 加註 解 、 再 搭配 Lingoes 即時 翻譯 ( 在 PDF-XChange 內 選取 文字 即 翻譯 ) ， 論文 讀 很順 。 我 感覺 我 好像 沒 當過 研究生 一樣 ThisIsAnEmoticonCode 以前 裝 龐大 的 Acrobat+Dr.eye 好像 真的 用不 到 那麼多 功能
+吃 麥當勞 旁邊 幾 個 小孩 在唱 跳 sorrysorry , 好強 ThisIsAnEmoticonCode
+今晚 又 一 次 感到 失敗 加上 天真 了 ， 這 世界 某些 問題 從來 不可能 是 想要 簡單 就 能 簡單 多少 ， 你有 絕對 自信 但沒人信你 或是 你 做不到 那 也 沒用 。 但是 ， 既然 真的 想要 ， 光 是 不 理性 的 產生 負面 感想 是 無法 改變 什麼 的 ， 想要 得到 ， 就 該 有 能力 去 背負 一切 。 ThisIsAnEmoticonCode
+想 找 一 本 適合 我 這 種 對 機率 統計 沒 概念 的人 來 看 的 、 從頭 開始 教 、 學習 ThisIsAHyperLink 統計 R 軟體 的書 .....
+師大 夜市 的 「 冰火菠蘿油 」 滿 好吃 的
+師大 這李匯晴在 唱歌 喔 ~
+ThisIsAHyperLink babykoala 213 在 MSN 很 平靜 的 跟 我 說 一 句 「 你被黑了 」 ， 害我 突然 想 馬上 拔 網路 線 XD
+小歪 大 碰到 的 事件 ... ThisIsAnEmoticonCode ↓
+ThisIsAHyperLink Facebook Developer Wiki # 下方 Facebook Platform Client Libraries 偏偏 我 比較 想要 的沒 歸在 official ...
+雖然 有 早睡早起 ， 還是 睏了 整天 啊 ...
+早睡早起 成功 ， 心情 恢復 正常 ThisIsAnEmoticonCode
+休息 一下
+宵夜 的 時間 又 到了 ThisIsAnEmoticonCode 吃飽 繼續 做事 ~
+原來 昨天 那 則 OL 酒醉 接力 xx 驗種 喜事 收場 的 新聞 又是 ThisIsAHyperLink 記者 自己 生出來 的 新聞 # 「 甚至 連 撰稿 記者 江國榮也 稱 ： 『 該 消息 是從 友人 處 輾轉 聽到 ， 未 找到 當事人 ， 且 聽說 當事人 都 離職 ， 部分 內容 是 自己 修飾 。 』 」
+天氣 不錯 ThisIsAnEmoticonCode 只是 今天 被 投影 出來 的是 冷 太陽 ThisIsAnEmoticonCode
+電腦 打多了 可以 起來 活動 一下 ThisIsAnEmoticonCode
+關於 plurk 新 功能 - 標記 喜歡 ， 之後 大概 會 放在 / API/Favorites/set 嗎 ？ JSON object : { favorite : true/false , plurk_id : XXX }
+全 lab 訂購 麥當勞 第二 套 半價 ThisIsAnEmoticonCode
+ThisIsAHyperLink 駭客 攻擊 大陸 最大 搜尋 引擎 「 百 度 」 癱瘓 # 這 則 新聞 到底 是 說 直接 攻擊 百 度 本身 還是 某 DNS
+小王 子和 狐狸 的 故事 ..... 總 記得 好幾 年 前 有 人 跟 我 講 過 ， 怎麼 想 也 想 不 起來 是誰 XD
+ThisIsAHyperLink 昨晚 我 看到 這 個 感動 到 快 哭了 ThisIsAnEmoticonCode ， Fate/stay night : Unlimited Blade Works 是 原作 當中 的 第二 路線 ( 當年 TV 用 第一 線 結局 ) ， 看到 原本 經典 場景 的 靜態 插圖 被動 畫 化的 感受 實在 太 熱血
+運命 ? 夜 with my …
+going to study .
+這 次 難得 不是 「 不想 輸 」 ， 而是 「 想 打贏 」
+ThisIsAHyperLink 選課 系統 許功蓋 ？
+剛 我媽要弄 晚餐 ， 問 我是 小餓 還是 中餓 ， 我 要 講 答案 之前 才 發現 這樣 直接 唸出 來 很 像是 「 我 中二 」 ( 詳見 ThisIsAHyperLink 中二 病 ) .....
+[ 測試 ] A 咖對著嫩 B 說 ， 慣 C 的 女友 有 D 奶 ， E 化 程度 相當 高 ， 最近 喜歡 吃 G 腿飯 ， 吃完 去 看了 Q 版 電影 ， 走出 電影院 摔倒 變成 O 型腿 ， 照 了 X 光就 暫時 回家 修養 了 。
+幾 年 前講 PHS 電話 的 問題 現在 還 有
+不管 這 次 家教 能當 多久 ， 懶散 兩 個 多 月的我 都有 熱血 要 k 書了 XD 對 一 個 完全 沒 資訊 科學 背景 的人 理解 和 進步 的 速度感 到 驚訝 ， 身為 資工 系 如果 唸完 只有 學到 語法 和 呼叫 API ， 真的 不 知道 要拿 什麼 出來 比
+今天 家教 都在 debug , 應 學生 要求 輸入 此 符號 - &amp; gt ; ThisIsAnEmoticonCode
+手機 開著 WMWifiRouter 讓 兩 台 電腦用 無線 網路 連上 然後 放著 ping google 之後 去 睡覺 ， 結果 六 個 多 鐘頭 之後 手機 關機 了 ... 但 原本 不 接 電源 這樣 玩 的話 ， 大概 撐 不了 兩 小時 。 所以 現在 是 「 USB 接 電腦 充電 跟不上 耗電 」 嗎 ？
+當 你 面對 一 件 事 ， 在 思考 「 應該 理智 應變 或者 不要 那麼 理智 比較 好 」 的 時候 ， 你 本身 算是 處於 理智 狀態 嗎 ？
+ThisIsAHyperLink 768 - bit RSA cracked , 1024 - bit safe ( for now )
+Xuite 現在 是 怎樣 ...
+原來 Starbucks 這麼 早 關
+家教 去 ThisIsAnEmoticonCode
+plurkm 的 版面 最近 常 在 調整 , 現在 &amp; quot;My Plurks&amp;quot ; 變 只剩 &amp; quot;My&amp;quot ; 有點 難按 …
+殘 念 ... 裝了 HTTP Debugger Pro 發現 跟 即時 通相衝 ， 會 害 即時 通 無法 執行 ， 一 開 就 crash ThisIsAnEmoticonCode 還是 乖乖 用 原本 的 HttpWatch 好了
+ThisIsAHyperLink Google 會 反噬 宏達 電 ？ # 「 宏達 電在 推出 Android 手機 後 ， 去年 便 吃掉 旗下 Windows Model 機款逾半 市場 」 Model / Mobile ?
+ThisIsAHyperLink 程式 設計師 的 自我 修養 － 連結 、 載入 、 程式庫 # 之前 我 噗 過 這 個 ， 不過 最近 有 上天 瓏 網站 的人 應該 會 發現到 它出 繁體 版了 ~
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink STLFilt-An STL Error Message Decryptor f or C + +
+今天 真的 戰了 ThisIsAnEmoticonCode ThisIsAHyperLink PHP 很爛 , ThisIsAHyperLink 你的 PHP 比我 的糟 ， 因為 你只 懂得 抱怨
+K ： 「 我是 炸彈 」 V ： 「 我是 駭客 」
+原來 今天 有 戰哦 ， 我 看到 「 21 歲 九年 經驗 」 我 就 猜到 事主 了 ， 因為 那 個 ID 發文 特色 我 也 看了 七 年 了 ..... 基本 上 我很 佩服 他的 一些 才華 ， 只 能說 有 些 場合 講話 真的 不 適合 這麼 偏激 就 是 。
+做 了個夢 ， 在 夢裡超? ， 從早到晚 灌 了 幾十 瓶 水 下肚 還是 口乾舌燥 ， lab 同學 看到 還 跟 我 說 他們 有時候 也 會 這樣 ThisIsAnEmoticonCode 結果 剛才 被 吵醒 之後 發現 真的 很渴 ... 馬上 拿手 邊的 7 - SELECT 紅茶 一 飲 而 盡 ， 應該 解脫 無限 迴圈 了吧 orz
+小 七 所有 小盒全脂鮮乳 居然 都 賣光 ， 只 剩低 脂
+教學相長 ， 沒 東西 教了怎辦 ？ 那就 一起 學新 東西 啊 ThisIsAnEmoticonCode
+有時 你 可能 預期 某 扇 門在 某 個 時間 點 自己 才 會 面臨 要不要 開的 選擇 ， 可是 沒想到 有 一 個 你 覺得 不太 可能 去開 的人 先 打開 了 ， 你 趕緊 先 嘗試 把它 先 關 回去 卻 似乎 沒辦法 ， 也許 門 一 開 就 開始 融化 了 。 當 你 腦子 還 存在 著 先前 那 不 希望 太早 面對 的 計畫 同時 ， 你 確實 已 提早 開始 面對 門 後 的 未知 .....
+地震 !
+ThisIsAHyperLink Windows 7的 「 GodMode 」 上帝 模式 ！ from 重灌 狂人
+突然 很 希望 多 年 前 扔到 角落 的 PHS 能 恢復 作用 ...
+麥當勞 吃了 兩 份 ， 感覺 又 睏了 ThisIsAnEmoticonCode
+對話 了 超過 時鐘 的 一又四分之一 圈 ， 已經 無法 思考 ..... 或許 能 做的 只剩 一 件 事情 ： 睡覺 ThisIsAnEmoticonCode 至少 我 希望 我 聽到 的 和說 過的 都 不要 忘記 。
+其實 我 根本不 想管我 自已 的 捷運 末班車 時間 XD
+Python meeting@BARISTA COFFEE ThisIsAnEmoticonCode 筆電 隨機 Win 7 居然 說 啟用 到期 是 怎樣 ThisIsAn EmoticonCode 還好 還是 暫時 能 使用 XD
+沒 什麼 用處 卻 又 愛 給 老人家 添 麻煩 的 長輩
+好像 有 睡飽 的 感覺 了 ， 應該 會 有 些 產能 了吧 ThisIsAnEmoticonCode
+eating 炒 米粉
+一 個 多 月 前 說 ThisIsAHyperLink 擔心 自己 高中 同學 一 個月 之後 被 吃掉 ， 一 個月 之後 的 最近 幾 天 都 沒 看 她 上線 了 ...
+當然 還是 笑得 出來 ， 因為 這 也是 過去 經驗 之 一 。
+綜合 MSN 上 朋友 暱稱 寫阿凡 達觀 後感的 結論 ： 「 有 跑車 真好 」
+睡 超久 ， 然後 一起 來 吃 一 大 碗 麻油 雞 麵線 真脹
+今晚 很 開心 ThisIsAnEmoticonCode 晚餐 跟 新 朋友 去吃 ThisIsAHyperLink GoodDay 漢堡 吃到 快撐死 ， 後來 找好 幾 家 咖啡店 最後 好不容易 有家 Starbucks 有 位 ， 趕 在 打烊 前 解掉 一 個 Python 問題 。 再 去 看了 跨年 煙火 ThisIsAnEmoticonCode 應該 不會 失眠 了吧 ~
+終於 上車 啦 ThisIsAnEmoticonCode 都想 睡了 哈
+MRT currently sucks , taxi is 王道 now .
+台北 車站 爆擠
+在 部門 的 稱號 不是 「 OOO 的 學弟 」 而是 「 OOO 前 女友 的 學弟 」 了 ..... 有 必要 複雜化 嗎 ThisIsAnEmoticonCode
+連續 的 意識到 作出 了 錯誤 選擇 ， 造就 了 連續 的 失眠 日子 ThisIsAnEmoticonCode
+ThisIsAHyperLink 德 工程師 ： GSM 加密遭 破解 密碼 表已 流出
+我 現在 相信 去 h 社是玩 命了 ThisIsAnEmoticonCode 被 問了 傳說 中 的 尷尬 問題 XD 至少 一 開始 就 坦白 哈
+實在 有點 懶得 只 為了 下午 一 堂 seminar 待會 又 要 趕去 中壢 傍晚 再 趕回 台北 … orz
+早睡早起 趕著 回 台北 ， 好 昏暗 的 清晨
+ThisIsAHyperLink Linux 課 期末 project # 真 期待 學員 們會 怎麼 做 ThisIsAnEmoticonCode
+看了 幾 個 小時 才 發現 自己 挑了 一 篇 很 無聊 的 paper ..... 明天 打算 報以 前 做的 東西 好了
+開工 ThisIsAnEmoticonCode
+我 問 ThisIsAHyperLink babykoala 213 說 「 什麼 是 90 」 她 馬上 回我 「 NOP ? 」 ..... 組語 少女
+3.71 GB ， 99.8 % 斷種 .....
+語音 通話 感覺 很好
+ThisIsAHyperLink 网?? 有 正常 ?字?名
+錢袋 最後 一 張 鈔票 取出 ... 今年 冬 天真 冷
+跟 邏輯 強 但是 以前 沒 學過 程式 設計 的 新手 ， 討論 程式 真的 輕鬆
+ThisIsAHyperLink ThisIsAHyperLink 在 PTT 防毒 板 看到 的毒 ， 抓回來 真的 是 簽章 驗證 會 過 ThisIsAnEmoticonCode
+看來 是 調整好 了 ThisIsAnEmoticonCode 明天 來 看 paper
+yes , 地震
+盡 是 令人 火大 的 感覺 。 每 次 只要 這樣 就 想 ...
+Embarcadero RAD Studio 2010 Architect 的檔 到底 是 2.5 G 還是 3.7 G
+htc ( Android ) 最後 一 關 約 下週 ... 這 ThisIsAnEmoticonCode
+又 推了 一 位 朋友 去看 Fate/stay night ， 醞釀 明年 衝 電影 版的 同好 ！
+我 每 次 搭 計程車 上學 ， 司機 問我 身份 .. 給 的 回答 都 不 一樣 XD 大學生 / 碩一 / 碩二 / 研究生
+ThisIsAHyperLink AES Implementation in RPython | Olly Wang
+第一 次 收到 某 老朋友 的 email 沒想到 就 是 附檔 夾帶 rar 包 exe ， 執行 之後 是 寄生 背景 IE 的 那 類 程式 .. ThisIsAnEmoticonCode
+究竟 ThisIsAHyperLink 本 課程 的 &lt; b &gt; * * 敦陽 公司 顧問 * * &lt; /b &gt; 是 哪 位 大大 呢 ThisIsAnEmoticonCodeThisIsAnEmo ticonCode
+不過 我 也 滿 想 去 玩 EFI BIOS 的 .....
+TM OK ; ASUS OK
+在 阿速被大 老闆 狂電 … orzorzorz
+這 氣溫 要 爬起來 + 爬起來 之後 正常 行動 .. 真 是 挑戰 理智 極限 ThisIsAnEmoticonCode
+經 證實 ， 先前 開 假期 模式 的 同學 今晚 卡 馬會 + 3
+再 來 投吧 ThisIsAnEmoticonCode TM 今年 比較 需要 雲端 相關 人才 ， 時機 不好
+ThisIsAHyperLink 嗆聲 「 秒殺 少林 」 泰拳 選手 反被 KO ... .......
+躺 在水裡想 事情 想了很久 ， 最近 簡直 天真 過 頭 了 ~
+晚上 要 挑出 適合 用來 報告 的 論文 出來
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+昨天 的 提問 ， 雖然 沒有 得到 答案 ， 自己 建立 kernel thread 觀察 一下 也 是很 快 就 知道 結果 了
+普通 的 發問 似乎 被 當成 在 challenge 了 orz … 真的 要 戰我 會 說 今年 已經 有 論文 解決掉 那 個 假設 了 ＠ ＠
+早上 allenown 和 newbug 出現 在 影片 , 現在 有 駭客 橘子 · · · XD
+昨天 是晚睡 早起 ， 今天 早睡早起 了 ThisIsAnEmoticonCode
+今天 去 TM 跟人 小亂聊 一下 Windows kernel programming 感覺 滿 不錯 的 。 聽說 有 在做 NDIS driver 的 前輩 剛好 沒 到場
+明天 要 去 TTU 的話 ， 如果 要 聽 第一 場 CIH 演講 的人 可以 先 看 一下 Linux 的 ptrace ( ) 搭配 PTRACE_SINGLESTEP 的 意義 與 效果
+殘 念 , 這 次 考完 htc 感覺 就 是 掰了 , 題目 給 大一 生 三 個 小時 都 能 實作 好 , 但 它 給 三 個 小時 不 實作 只考 design 的話 , 肯定 表示 它 希望 我寫 更多 東西 才對 。 功力 不足
+錢 買不到 的 時間 , 只好 請 同學 載 … 感恩 ThisIsAnEmoticonCode
+思考 緩慢 、 甚至 還 有 相反 意識 ， 還好 仍然 爬起來 了 ... ThisIsAnEmoticonCode
+來 從 ThisIsAHyperLink ACSAC 2009 挑篇 paper 讀吧
+ThisIsAnEmoticonCode 大學 的 死黨 &amp; quot;software-testing queen&amp;quot ; 今天 生日 然後 順便 應 徵到 TM QA 了 ThisIsAnEmoticonCode
+學弟 居然 半 認真 的 來 問我 這 間 學校 出去 工作會 很 難找 嗎 ... orz 我 跟 他 說 要 學學 「 呼叫 API 」 以外 的 事情
+ThisIsAHyperLink 一 次 搞懂 十 種 YouTube 格式 | T 客邦
+cleared all 45 endings of Fate/SN . In the last episode , Shirou meets Artoria at Avalon.....finally ..... ThisIsAnEmoticonCode
+明明 有在 MSN 對話 視窗 對話 ， 狀態 還是 變成 離開 ， 然後 自己 去 設成 線 上 也 仍然 維持 離開 ThisIsAnEmoticonCode
+幾 天 抱佛腳 亂讀 幾 面 書也 不知 能不能 派上用場 … 然後 又 要 來 挑 paper 了 因為 下週 要報 ThisIsAnEmoticonCode
+吃 MOS ing , 鄰座 的 一 對 高職 女孩 相當 恩愛 … 青春 真 令人 羨慕 啊 XD
+出門 去打 B 肝 or H1N 1 預防針 ThisIsAnEmoticonCode
+ch 52 中天 雲端 張 明正
+難得 有 集合到 畢業 之前 的 lab 聚餐 陣容 ， 感覺 很好 ThisIsAnEmoticonCode
+該 吃 一 顆 感冒藥 先 壓制 一下 了
+連續 兩 天 Windows Update 要 reboot ThisIsAnEmoticonCode
+ThisIsAHyperLink wxDev-C + + is an extension of Dev-C + + # Dev-C + + 我 想 很多 人 以前 應該 用過 或 看 過
+ThisIsAHyperLink 日語 EVA 能力 試? 試題
+看到 「 為什麼 寫 程式 的 很 難 戒菸 」 「 因為 菸盒只 會 標 Warning 不會 標 Error 」 先 聯想到 的 卻 是 gcc - Werror ... Orz
+本 週超 電磁 砲 裡面 固法 難得 有 不少 台詞 ， 感覺 很好 只 因為 她 聲音 就 是 遠?凜 ThisIsAnEmoticonCode
+ThisIsAHyperLink
+ThisIsAHyperLink
+HTC 第二 關 ： OOAD
+有沒有 花 兩萬 元 買的 WM 手機 連 播放 MP 3都 無力 的 八卦 … 只是 多 開 Pocket IE 看 plurkm 過分 嗎 ThisIsAnEmoticonCode 常常 不是 自動 跳下 一 首 就 是 強制 把 PIE 關閉
+ThisIsAHyperLink OpenDNS has responded to the new Google service here .
+ThisIsAHyperLink 資安 不 設防 合作 卻被耍 國網 中心 冒出 購物 網 # 好像 滿 方便 又 穩固 的 ... ThisIsAnEmoticonCode
+剛 老師 打來 問 SetWindowsHookEx API ， 解釋 完 之後 最後 我 跟 老師 推薦 碩一 學弟 其實 也 會 寫 ， 畢竟 該 功能 對 學弟 來 說 可是 持續 應用 在 實戰 中 ..... ThisIsAnEmoticonCode
+「 基本 上 ， 沒有 意外 的 研究 ， 代表 這 只是 一 個 practice project 」
+在 睡夢 中 跟專支處說 不用 了 ... ThisIsAnEmoticonCode
+今日 名詞 「 大 環境 」
+ThisIsAHyperLink Twitterbot-PlurkAPI at github
+一 分鐘 前東森 新聞 報導 金 盾獎 ， 有 訪問 GD ThisIsAnEmoticonCode
+來 履行 自己 ThisIsAHyperLink 上 個 月底 的 讀書 計畫 ， 時間 到了 ThisIsAnEmoticonCode
+根據 ThisIsAHyperLink wenpei 大 ThisIsAHyperLink 發噗 得知 比賽 送 的 奇怪 金屬 盒裡小公仔是 USB 碟 ， 想到 要拔它頭再把 脖子 接到 電腦 活命 就 覺得 很 不忍 ， 能不能 把它 拿出來 但 保留 完整 肉身 ? ThisIsAHyperLink
+睡了 14 小時
+GD 有 實踐 諾言 稍微 * 了 一下 初賽 題目 ThisIsAnEmoticonCode
+全 盾 完 頭昏腦脹 ThisIsAnEmoticonCode 其中 一 題 出 brainfuck language 我和 ThisIsAHyperLink matrix neo 都 強烈 懷疑 作者 前 陣子 有 看 C_AND_CPP 的 語言 大全 討論 串 XD
+全 盾 今年 要 輸入 答案 前 要 先 申請 登錄 卡 , 等候 叫號 , 再 走去 專屬 成績 登錄 教室 輸入 ………
+ThisIsAHyperLink 8.8 . 8.8 / 8.8 . 4.4 流傳 中
+全 盾 報到 時間 09 : 30 ~ 10 : 00 南京東路 站 競賽 4 小時
+TM 下週 還要 第三 次 面試 ThisIsAnEmoticonCode 冏 rz
+這 天氣 太好 睡 … 所以 趕場 中 ThisIsAnEmoticonCode
+書 讀 太少 ， 廢話 太多
+搭 火車 總是 會 很 累 orz
+提前 回 台北 .. second interview ， 後天 全 盾獎 就 直接 從 台北 去了
+最近 NaCl 很紅 ， 恰好 今天 lab 同學 有 報告 ThisIsAHyperLink Native Client : A Sandbox for Portable , Untrusted x 86 Native Code 這 篇 paper
+無言 ， 現在 要 meeting
+這 次 修 Linux 課的 學員 透過 作業 都 知道 玩 page table 也 知道 修改 CR 0 ， ThisIsAHyperLink 題目 明顯 比 以前 難 一點 了 XD
+ThisIsAHyperLink 泰拳 嗆 秒殺 少林 拒戰 峨眉 接招
+12 / 1了 ThisIsAnEmoticonCode 年底 之前 至少 要 再 看 一 本 書
+四 大 ： 勤業 眾信 、 資誠 、 安 侯 建業 、 安 永
+就算 我 跟 PE 比較 親近 ， 也 不能 繼續 當 ELF 文盲 啦 ThisIsAnEmoticonCode
+ThisIsAHyperLink # 好笑 的是 後面 的 對照 版 ， 副 歌 時 原本 面具 傑克 斯 登場 改用 面具 夏亞 來 兜 還是 一樣 合啊 XDD
+&amp; quot;Any problem in computer science canbe solved with another layer of indirec tion.&amp;quot ;
+Fate 我上 禮拜 抓來 一下 就 看完 了 ， 當時 也 覺得 就 只是 中上 作品 ， 但 這 禮拜 才 發現 它的 後勁 很強 ， 果然 不 完美 的 完美 很 容易 讓人 難以 忘懷 啊 .....
+陪 同學 買原 文書 ， 無意 間 幫忙 省了 一千四 ThisIsAnEmoticonCode
+被 追殺 論文 中 ... 我看 下週 金 盾獎 真的 要 去 當 砲灰 了 ThisIsAnEmoticonCode
+ThisIsAHyperLink Windows 7 在 郵局 WEB ATM 遇到 插拔 錯誤 無法 轉帳 的 問題
+ThisIsAHyperLink 李家同 ： 資訊系 同學 應 多 學 電機系 的 課程
+考完 HTC 筆試 到 家啦 。 英文 和 邏輯 我看 是爆了 ， 後面 C 和 C + + 各 一 份 ， 考 很細但 都很 簡單 ， 時間 也 給 太多 ... 要是 可以 分 一點 時間 給 考 邏輯 的 時段 就好 了 Orz
+早上 起床 後 就 是 近來 最後 一 場 筆試 ... 該 結束 了
+ThisIsAHyperLink 行動 裝置 嵌入 式 系統 與 軟體 S3C 6410 Google Android 開發 應用 實務 by 長 高科技 # 服用 此 Androi d 書 會 長高 嗎 ThisIsAnEmoticonCode
+今日 感想 ： 1 . 我去 TM 沒 比我 去 自由時報 快 2 . TM 筆試 主要 是 C 的 範圍 ， C + + 限定 的 部份 很少 ， 題目 不難但 時間 到 我 也 只是 剛好 寫完 沒 多久 ， 應該 是我 近來 太少 寫 程式 3 . 我 帶去 的 面試 全都 沒 用到 ， 專題 和 論文 全都 用 講的 4 . 面試 對方 三男一女 都很 和藹 5 . 大學 畢業 後好 久沒 跟 人講 rootkit 了
+吃 午餐 囉 ~ 我是 整 班 第一 個 面試 的 … 小姐 說 今天 這 班 考 得不 太好 只有 12 個 過 初試 XD
+果然 沒 吃 早餐 就 要 去 考試 啦 ThisIsAnEmoticonCode
+明天 一早 要 考試 ， 感覺 很 有 可能 沒空 吃 早餐 就 趕場 去了 ThisIsAnEmoticonCode
+今天 一 看到 ThisIsAHyperLink Flash 版 DOOM 馬上 破 一 次 ， 小時候 太 喜歡 這 類 DOOM-like 遊戲 了
+公車 上 看 民視 [ 娘家 ] XD … 回 台北 去
+來 碰碰運氣 去看 現在 八方 還 有沒有 鮮蝦 水餃
+學弟 在報 ThisIsAHyperLink Cross-Origin JavaScript Capability Leaks : Detection , Exploitation , and Defense
+今日 感想 1 . 大樓 莊嚴 氣派 2 . 櫃姐強 大聲 優3 . 筆試 難度 適中 4 . 主管 聊天 和藹 5 . 我像去亂的 ， 筆試 雖 會 但 人家 日後 要 做 多媒體 我 不 懂 ， 問我 論文 我 講 資安 6 . 主管 和 HR 先後 不約而同 都有 問 「 你 怎麼 不 去 趨勢 」 ... ....... 感覺 有 危機 XDrz
+一切 都 很順 … 所以 聽天由命 了 ThisIsAnEmoticonCode
+計程車 司機 一 聽 地址 馬上 知道 我 要 去 自由時報 XD
+好像 太晚 出門 … 才剛 經過 薇閣
+going to 內湖 ThisIsAnEmoticonCode
+地震 確認
+又 被酸了 ~ _ ~ 是 有沒有 必要 在 面試 前 一 天 晚上 還要 講 一些 有 的 沒的啊 ThisIsAnEmoticonCode 真的 啥 都 沒上 的話 再 來 酸啊 ， 因為 到時 就 表示 你 兒子 我只 不過 是 一 個 唸到 研究所 畢業 結果 連 一 家 公司 都 不屑 要的 廢物 ， 這樣 好了 吧
+一 整天 能量 不足 ， 大部分 都 在睡 orz
+ThisIsAHyperLink 2009 冬季 資訊 安全 技術 研討會 @ TTU # 來 哦 ~ ( CIH , nanika , timhsu )
+ReP : ThisIsAHyperLink pirrer : ThisIsAHyperLink img101.imageshack.us/img 101 / 1890 / pic244241.jpg 到底 是誰掉了 ATM 交易 明細 單在 台積 六廠
+今天 買了 一 本 非常 非常 有意思 的書 「 ThisIsAHyperLink 程序 員的 自我 修養 — 鏈接 、 裝載 與庫 」 如 書名 ， 對 linking/loading/library 有 興趣 的人 可以 找來 看看
+家裏 的人 再三 說 絕對 尊重 你 ， 但 其他 附加 的話 卻 不斷 表現出 根本不 希望 你 達到 你 現在 想的 目標 。 要不然 你 就 乾脆 說 不 贊成 ， 那 我 就 不會 分享 了 ， 反正 我 想做 的事 即使 一 個 人 我 也 會 想 辦法 成功 。 不 喜歡 表現 得像是 開明 ， 而 我 主動 聊我 現在 狀況 反而 只會 讓我 接著 聽到 帶刺 的話 ， 我 又 不會 吵架 ， 於是 變成 冷戰 彼此 也 不 好過 啊
+傍晚 開完 會 去吃 MOS ， 櫃台 居然 是 高中 同學 ， 幾 年 前她 在我 家的 MOS 也待過 ， 沒想到 現在 換了 地方 還是 在 MOS ， 應該 沒有 不熟 的事 了吧 XD 也許 只是 喜歡 那 個 環境 。 一樣 還是 天然 呆和 陽光 的 氣息 ， 小 聊了 幾 句 話 ， 我 覺得 對比 之下 我的 言語 實在 太 沒 朝氣 了 ThisIsAnEmoticonCode
+對 想學 compiler 寫作 的人 說 「 還不如 去 設計 語言 」 的話 不是 很 莫名其妙 嗎 ？ 設計出 好的 語言 固然 相當 難 ， 但 有 了 語言 卻 沒有 interpreter/compiler 的話 怎麼 實現 其 應用 出來 呢 ， 若 沒有 應用 就 只是 自嗨 ， 還是 那 人的 意思 是 說 compiler 叫 別人 去 做 ？ 那就 回到 此 噗 第一 句
+居然 看 著 自己 的傘 被偷 , 真 笨 … 我人 在 超商 內 , 以為 他在 找 自己 的傘 , 結果 轉個身 回頭 傘就 不見了 . 害我 又 花 一百 罝傘
+ThisIsAHyperLink Essential Linux Device Drivers 中文版 出了 ( 悅知 文化 )
+第一 次 討厭 喜歡 亂按 機台 ， 讓 畫面 變回 Windows 桌面 的人 orz 去 販賣機 申請 成績單 ， 發現 販賣機 變 Windows 桌面 ， 按了 一些 圖示 ， 其中 某 程式 開啟 只有 一 個 按鈕 能按 「 系統 重設 」 怕 按了 出事 就 趕快 關掉 ， 後來 終於 開對 成績單 申請 系統 ， 顯示 系統 服務 關閉 中 ... 乖乖 跑 一 趟 人工 申請 ThisIsAnEmoticonCode
+今日 很紅的 名詞 ： 「 達爾文 」
+三 場 測驗 都約 在 下 週 ， 所以 要 多 吃飯 ThisIsAnEmoticonCode
+Chrome OS 發表 ， 大概 等 睡 一 覺 起來 噗浪 上 就 看 得到 討論 結果 了 XD
+ThisIsAHyperLink
+看 Fate 就 是 一直 覺得 男 主角 真的 很痛
+ThisIsAHyperLink babykoala 213 傳了 一 隻 質 因數 分解 的 程式 給 我 ， 我 一 執行 它 要 我 輸入 數字 ， 我 馬上 輸入 英文字 母 ， 然後 它 就 顯示 「 要是 一 個 正整數 ! 」 真的 很傲 .....
+ThisIsAHyperLink 學長 死黨 的 新作 ... XDD
+我是 覺得 ， 有時 看到 罵 大學生 研究生 爛 之類 的 言論 ， 根本不 是在 罵 那些 認真 學習 的人 ， 但 常 看到 認真 學習 的人 會 率先 跳出來 反駁 ， 然後 某些 真正 就 是 好吃懶做 的人 ( 你我 身邊 都有 吧 ， 真的 是 不知 為何 而戰才 打混 嗎 ？ ) 就 一起 群起 附和 說 反 正當 老闆 的 就 是 這樣 只會 嘴砲 ， 到 最後 就 是 整 個 議題 重點 失焦了 ...
+ThisIsAHyperLink 奇夢之星 Online 裡面 ， 商人 召喚 出來 的 傭兵 戰士 ..... 真的 是 Fate/stay night 的 Saber 啊 ! ! ThisIsAHyperLink
+報 完 paper ， 餓 了 XD 但 接下來 學弟 要 報到 六 點 ThisIsAnEmoticonCode
+我 實在 很怕我 高中 同學 一 個月 之後 被 吃掉 。 她 人在 國外 讀書 ， 正在 倒數 計時 等 一 個 暑假 認識 的 男友 過去 找她 ... ThisIsAnEmoticonCode
+ThisIsAHyperLink 完全 揭露 拿商周文當寶的反美牛 智障 人士 真相 via ThisIsAHyperLink lester 850
+ThisIsAHyperLink 非懂 不可 MOU # 之前 只有 看到 講 ECFA 的 ， 沒 看 過 這 篇 ..
+超 電磁 砲這 集 不錯 ThisIsAnEmoticonCode
+ThisIsAHyperLink Microsoft confirms first Windows 7 zero-day bug
+看到 噗 友 提到 struct sk_buff 超 眼熟 ， 可是 我 不 記得 我寫 過的 code 裡面 有 使用 這 個 名字 ， 才 想 起來 是 強者 我 同學 研究 有 報告 過 ， 剛 問了 一下 她 還 記憶猶新 XD
+最近 感覺 自由時報 下 標題 越來越 有 蘋果 的 感覺
+ThisIsAHyperLink 6502 compatible assembler and emulator in Javascript
+又 修了 幾 個 bug ， 原本 ImmDbg 搜尋 指令 可以 顯示 該 指令 所 坐落 的 module ， 但 有 些 根本不 對 ... 比如說 有 些 找到 的 指令 他 說 位在 ntdll.dll 所 佔用 的 記憶體 範圍 中 ， 但 實際 上是放在 kernel32.dll 的 範圍 才對 。
+ThisIsAHyperLink iii 的 資安 工程師 # ？ ？ ？ 看起來 不 簡單
+google://&amp;quot ; 金 盾獎 台清交 &amp; quot ;
+雨勢 不小 ， 但 為了 肚子 還是 要 出門 ThisIsAnEmoticonCode
+河道 上 有 兩 個 在 資工 系 就讀 中 且很 常 發噗的 女生 ， 一 個 每天 都在 咒罵 式的 抱怨 ， 一 個 則是 常 會 有 歡樂 的 聊天 噗 ， 感覺 差 超多 ThisIsAnEmoticonCode
+ThisIsAHyperLink Jservs blog : 親手 打造 Dynamic Library Loader via ThisIsAHyperLink j serv
+Imm 內建 的 搜尋 指令 會 亂找 ， 就 自己 改寫 啦 ~ 順便 可以 顯示 指令 位元組 ThisIsAnEmoticonCode ThisIsAHyperLink
+ThisIsAHyperLink lidiot-restaurant.com/assets/images/news/news_091112.jpg ThisIs AHyperLink LIDIOT 餐廳 原味 重現 facebook 最夯 餐廳 遊戲 菜色
+去 八方 點了 十二 個 水餃 加 一 碗 玉 米湯 居然 就 飽了
+lab 外面 小 圓桌 有 一些 人在 討論 backdoor ... ThisIsAnEmoticonCode ( 其實 是要 期中考 了吧 ThisIsAnEmoticonCo de )
+房間 的 電源 總開關 盒 竄出 螞蟻 ThisIsAnEmoticonCode
+碩一 這 屆 有 Win 32 SDK 後繼 者了 ThisIsAnEmoticonCode lab 新 希望 XDD
+中壢 明顯 比 台北 熱
+慘 … 要報的 投影片 還 沒 生 ThisIsAnEmoticonCode
+要 停止 胡說八道 就 是 去 睡覺
+之前 用 隱藏 號碼 打來 被我 手機 自動 掛掉 的 那 位 人資 ， 剛才 我 打回去 ， 接起來 的人 說她 離職 了 ... 可惜 啊 ， 沒 能 聽到 聲音 ThisIsAnEmoticonCode ( 但 一 開始 我 其實 是 以 為 我打 錯 電話 )
+ThisIsAHyperLink 「 當 臨時工 早知就 不 讀 博士 了 」
+在 C_AND_CPP 看到 一 個 推文說 「 argument 不是 吵架 喔 ? 」 呃 .. 是 沒 錯啦 ， 以後 會 知道 別的 意思 ThisIsAnEmoticonCode
+ThisIsAHyperLink The iPhones First Worm
+腦子 突然 又 變得 清楚
+試 了 一 個 下午 的 LD_PRELOAD ， 終於 要 吃 炸醬麵 了 ~ . ~
+ThisIsAHyperLink 上海 自來水 來自 海上 ， 下 聯 是 ？ # 作者 分 三 類 ， 老實說 最 下方 那 類 所謂 瞎鬧 的我 覺得 ... 還 不錯 ＠ ＠ ... 可見 我 不是 衛道 人士 ThisIsAnEmoticonCode
+ThisIsAHyperLink Javascript 撰寫 私用 方法 - private method 的 開發 技巧 via ThisIsAHyperLink will h
+ThisIsAHyperLink Return-Oriented Programming 和 ThisIsAHyperLink Return-Oriented Rootkits 我 都 看了 ， 在 想 是否 挑 原始 理論 報 就好
+ThisIsAHyperLink # 前面 說 「 x 你娘 ， 你 要 打架 哦 」 後面 說 「 我 建中 ㄟ 講道 理的 」 ThisIsAnEmoticonCode
+最近 有 一 批 人狂 看 C + + ， 有 另 一 批 人狂 練 逆向 工程 ， 厲害
+ThisIsAHyperLink 李家同 ： 原來 ， 我 早 就 在 「 雲端 」
+這 週 同學 報告 paper 中間 有 提到 return-oriented rootkit ， 不過 原文 中 僅 一兩 句 稍微 提到 ， 所以 lab 大部分 人 應該 都 還 不 知道 那 是 什麼 ， 我看 我找 其中 一 篇 下週 二來 報 好了
+ThisIsAHyperLink 你 殺了 我 ， 也 殺了 你 自己 ： Lose/Lose 是 遊戲 也是 木馬 屠城 記
+中天 新聞 ..... 剛 在報 昨天 地震 ， 主播 一下 說 「 跟 九一二 大地 震比 ... 」 然後 又 說 「 兩千多 年 前 ... 」 還好 馬上 改口 說 「 造成 兩千多 人 死亡 ... 」 早起 播報 辛苦 了 ... ThisIsAnEmoticonC ode
+ThisIsAHyperLink Windows 7 UAC 對戰 惡意 軟體 ， 結果 如何 ？ 專家 告訴 你 ！
+今天 忙了 一 整 天辦 告別式 ， 送 外公 最後 一 程 。 整 個 過程 當中 有 幾 次 受不了 ， 其中 除了 自己 回想 過去 種種 而 不捨 ， 看了 身邊 其他 親愛 的 人 也是 會 難過 的 原因 之 一 ， 例如 外婆 的 眼淚 。 「 永遠 」 這 兩 個 字沒 什麼 特別 ， 只是 當 「 永遠 」 這 兩 個 字 接上 了 「 離開 」 兩 個 字 時 ， 在 那 一 刻 我 就 會 完全 無法 忍住 啦 。 總之 ， 一路 好走 ThisIsAnEmoticonCode
+今天 會 做個 結束 ， 會 忙 到 很晚才 回來
+居然 有 親戚 聽 人說 ， 可以 拜 往生 者 帶走 其他 在世 人的 病痛 ， 拿到 陰間 再 看 能不能 賣掉 。 拜託 ， 就算 這 種 鬼話 可以 實現 好了 ， 真的 把 其他 人的 病痛 帶去 陰間 ， 誰 要 買 病痛 啊 ？ 那 如果 賣不掉 的話 ， 外公 等於 要背著 你們 這些 親戚 的 病痛 自己 走下去 嗎 ？ 外公 自己 的苦 好不容易 解脫 了 ， 你們 沒 幾 天 就 聽 別人 的話 來 搞 一些 有的 沒
+在 火車 上完 成 一 篇 作文 。 可是 為什麼 Pocket Word 會 在我 每 次 存檔 時 在 文件 中 隨機 偷塞 別的 字啊 Orz
+隔壁 502 那 堆 女人 超吵
+結論 是 我們 不 確定 的 20 題 裡面 錯了 15 題 ... XDrz ... 還好 其他 80 % 是對 的
+ThisIsAHyperLink 1 分鐘 破解 無名 警籲 網友 撤 私密 照 # &amp; lt ; 駭客 所 為 &amp; gt ;
+ThisIsAHyperLink 這是 昨晚 聚餐 點的 焦糖 瑪奇朵 ThisIsAnEmoticonCode
+ThisIsAHyperLink 忘記 哪時 註冊 過 ， 重新 註冊 一 次 就出 exception
+lab 聚餐 ING , 老師 請客 ThisIsAnEmoticonCode 我 已經 吃完 了 ~
+突然 想到 ， 那 題 17 - &amp; gt ; UDP ， 其實 就算 概念 不熟 只會 寫寫 小 程式 的人 ( 例如 我 ) 也 該 答出來 ， socket ( ) function 第三 參數 可以 代入 IPPROTO_UDP ， 其 值 就 是 17 啊 ..... 當時 完全 沒想到 ( 至少 這樣 有 辦法 消去 別的 ) ， 這樣 就 是 不應該 的 失分 了 XD
+真的 有 強隊 被搞掉 ， 可是 過 第一 關 的 還是 很多 強隊 ， 表示 第二 關 競爭 難度 一樣 是超高 。 持續 陪考 中 ..... ThisIsAnEmoticonCode
+ThisIsAHyperLink 資安 技能 金 盾獎 決賽 名單 # 真 慘烈 啊 這 次
+突然 發現 下週 又 要報 paper 了 ThisIsAnEmoticonCode 時間 真快 XD
+XD 上 個月 原本 想做 Plurk 的 「 誰 來 我家 」 功能 ， 看來 這 隻 ThisIsAHyperLink counterbot 實現 了
+隱藏 號碼 的 面試 電話 ， 這 次 有 接到 了 ..... ThisIsAnEmoticonCode
+買 了筆電 散熱 底板 ， 希望 能 讓我 那 台 高熱 NB 再活久 一點 XD
+ThisIsAHyperLink 天哪 大屯 火山群 恐 爆發
+似乎 到 哪 都 會 出現 qazwsx ， asdf ， zxcv 這 種 鍵盤 帳號 ...
+11月 了 ThisIsAnEmoticonCode 好快 好快
+今天 這樣 考 ， 代表 出題 者 覺得 這些 東西 是 重要 的 ， 大家 都 一樣 所以 也沒 什麼 好說 的 。 只是 在 題目 比重 上面 ， 或許 會 讓 今年 第一 次 參加 的人 覺得 ， 原來 資安 就 只是 網概 密碼 電子 商務 ， 這 關 如果 沒過 可能 就 真的 會 這樣 想了 ， 否則 還 有 機會 看看 以往 原本 到底 在比 什麼 。 對了 我只 是 陪考 我 也 不 懂 資安
+金盾獎 初賽 , 感想 是 … 這 好像 資管 / MIS / 密碼 學人 才 會考 得 比較 好 ThisIsAnEmoticonCode
+三 台 HTC 手機 在 本 節 車廂
+陪考 去 ThisIsAnEmoticonCode ..... 好餓 ! ! ThisIsAnEmoticonCode
+ThisIsAHyperLink 網路 技藝 大車拼 ‧ 大內 高手 來 闖關 via ThisIsAHyperLink willh
+手機 要 先 關閉 針對 「 隱藏 發話 號碼 」 的 黑名單 了 ... 面試 通知 結果 是說 聯絡 不 到 我 ThisIsAnEmoticonCode 我錯了 ~
+王 雪峰 、 王雪紅 ， 不要 搞錯 啊 ...
+居然 做了 一 個 讓 過世 的人 死而 復生 能 繼續 活著 一段 期間 的夢 ..... ThisIsAnEmoticonCode
+一大早 接到 一 通電話 ， 問我 最近 有沒有 在找 工作 ..... ThisIsAnEmoticonCode
+有 學弟 帶 女人 來 lab ， 我 要 回 家了 ThisIsAnEmoticonCode
+今天 學校 後門 的7 - 11 終於 又 上架 7 - SELECT 紅茶 了 ， 結束 兩 個 禮拜 沒有 紅茶 口味 的日子 。 檸檬 紅茶 還是 不如 基本 的 紅茶 耐喝 ThisIsAnEmoticonCode
+ThisIsAHyperLink Google 推出 免費 手機 導航 ！ | T 客邦
+先 這樣 吧 ， 多 也 沒用 。 找回 實力 比較 重要 ThisIsAnEmoticonCode
+寫作 文 中 ... ThisIsAnEmoticonCode 搞定 再 吃飯
+ThisIsAHyperLink 跳乎伊爽 @ RainDog via ThisIsAHyperLink RainDog 1976 # ..... ....... Thi sIsAnEmoticonCode
+ThisIsAHyperLink 熊 大王 突然 丟我 一 句 沒頭沒腦 的 話 說 「 怎麼 會 有 261 ! !! !! ! ! ! !!!! !! 」
+坐 台鐵 在 萬華 到 板橋 到站 之前 我的 3 G 一定 斷 ( 遠傳 )
+ThisIsAHyperLink 你 該 知道 的 共犯 結構 # 加上 回應 我 整 面 看了 快 半 個 鐘頭 吧 .. 超長
+睡了 快 12 小時 ， 希望 最近 不要 感冒 ThisIsAnEmoticonCode 趕緊 來 吃 早餐
+ThisIsAHyperLink 金盾獎 報名 名單
+3 小時 轟炸 結束 了 ThisIsAnEmoticonCode
+才剛 提到 _ _ cyg_profile_func_enter 就 要 下課 了 ， 之前 沒 去 台南 SA 聽 損失 真大 .....
+ThisIsAHyperLink Windows 7 日文版 的 策略 完全 成功 .... via ThisIsAHyperLink Tsunamimk 2
+又 到 了 上學 的日子 ， 所以 早餐 一定 不能 馬虎 ThisIsAnEmoticonCode
+還 有 Test-Driven Development
+學 unit testing
+在家 下載 Hero kernel source code 真慢 ..... 順便 抓 先前 Magic 的 看看
+早睡早起 早餐 ， 涼 週一 ThisIsAnEmoticonCode 這 時間 出去 有 一瞬間 有 高中 上學 的 感覺 ThisIsAnEmoticonCode
+蒟 蒻椰果 果凍 當 早餐 .....
+禮拜 一7 - 11 會不會 打折
+龜 很久 終於 可以 買 直接 搭配 Win 7的 筆電 了 …
+「 穿越 宇宙 的 少女 ( 宇宙 ? ? ? ? 少女 ) 」 真是 棒 ThisIsAnEmoticonCode 難得 能用 OST 回味 ， 因為 串場 的 那些 寂靜 舞曲 類型 剛好 是我 喜歡 的 。 喜歡 魯魯修 語調 ( 完全 一樣 ) / 討厭 拖戲 / 想 看 有 下功夫 的 機械 戰鬥 ( 但 &amp; quot ; 人形 &amp; quot ; 機器人 在 本 作 不 重要 ThisIsAnEmoticonCode ) / 想 放鬆 看 熱血 + 搞笑 的人 ， 可以 挑 這 部 今 年初 的 來 看 唷
+在家 要找 書 結果 書 放在 套房 ， 現在 在 套房 要找 某 本 書又 放在 lab .....
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink checko 說 ThisIsAHyperLink Symbian source 真的 可以 download 了
+ThisIsAHyperLink HTC Magic 適用 的 ROM 升級
+剛 看到 不少 轉噗了 XD : ThisIsAHyperLink 個資又 不是 氣體 ， 絕不 會 從 平台 外洩 出去
+考慮 該在 程式 變大 之前 拋棄 使用 MFC ... 在想 該 重新 用 PyQt 還是 C # 來 重寫
+原來 中古 科技 上 個 禮拜 說 「 下 次 繼續 」 的 意思 是說 ， 時間 另 約 ， 下 次 再 來 學校 看 剩下 的 demo ， 而 不 是說 接續 到 「 下週 」 繼續 demo 完的 意思 ..... 也就是說 哪 天 他們 有空 又 想起 再 來 叫 我們 準備 囉 XD 當作 好事 好了 ， 畢竟 這 代表 現在 可以 再 回去 睡 ThisIsAnEmoticonCode
+突然 想到 .. 明天 早上 該 不會 又 和 中古 科技 有 約 ThisIsAnEmoticonCode
+奇夢之星 把 GameGuard 整 個 關了 ， 大概 有 太多 玩家 被沒 調整好 的 NP 影響到 吧 ThisIsAnEmoticonCode 包括 我
+這 學期 seminar 至少 邀請 兩 位 中正 的 教授 了 ， 之前 林柏青 教授 講 IDS ， 今天 黃啟富 教授 講 WSN
+今天 的 作業 是 ， 找出 那 個 左上角 按鈕 按下 時 ， 觸發 中斷 的 IRQ number 為何 ThisIsAHyperLink
+ThisIsAHyperLink 要 準備 試玩 Openmoko 了
+CIH 在台 上 直接 點名 問我 C 的 volatile = = 還好 沒 漏氣 ThisIsAnEmoticonCode
+九 點 半 要 到校 的話 ， 要 趕了 ThisIsAnEmoticonCode
+今日 不能 晚睡 ~ 明天 要 上 Linux 課 ThisIsAnEmoticonCode
+昨晚 才被 Windows Update 卡 很久 並重 開機 的 那 台 XP 電腦 ， 剛才 又 update &amp; amp ; reboot 一 次 ... .......
+魔法 禁書 目錄 、 潘朵拉 之心 、 神幻 拍檔 ， 這 三 個 看到 最後 都是 故事 講到 一半 斷掉 ， 實在 是 ..... 無可奈何 嗎 XD ： 禁書 目錄 架構 太大 不可能 做完 、 潘朵拉 主角 才剛 找到 他 老爸 、 神幻 主角 力量 還沒 覺醒 = =
+極度 痛恨 Windows Update
+今天 學了 摺紙 蓮花 ， 整晚 也 折了 一些 ， 希望 這些 心意 都 會 傳達 到 ThisIsAnEmoticonCode
+ThisIsAHyperLink CB 能玩 變成 OB 就 不能 了 ， 算 你行 ThisIsAnEmoticonCode
+ThisIsAHyperLink 研究 人員 ： 駭客 挾持 Facebook 應用 程式
+最近 應該 會 待 台北 比較 多 XD
+ccn 爆強 ， 又 拿 第一 了
+。 。 。 結果 他們 聊 太久 ， 所以 我們 剩餘 的 部份 又 延到 下週 ..... 今天 早上 趕 八 點 半 趕假的 ThisIsAnEmoticonCode
+老師 正在 一 個 打 整 組 科幻 戰隊 ， 老師 加油 ! ! !
+說 八 點 半 開會 讓 我們 等 了 一 小時 ， 好 大的 官威 ThisIsAnEmoticonCode 不然 就 不 要約 那麼 早啊 ... 我們 也 知道 早上 趕場 很 累 的嘛
+8 : 30 要 開會 ， 筆電 開機 中
+聽說 很多 人投 趨勢 ThisIsAnEmoticonCode ThisIsAnEmoticonCode
+C_AND_CPP 板起 笑了 ..... 我 略 懂的剩 ARM assembly , DOS batch 還沒 人 po ， 其他 幾乎 都被人 用掉 了 ThisIsAnEmoticonCode 等人 貢獻 Objective-C 版本 ThisIsAnEmoticonCode
+老師 今天 上課 提到 ThisIsAHyperLink itsftt 說是 一 個 傳說 中 很 威猛 的 學弟 ThisIsAnEmoticonCode
+報 完 論文 ThisIsAnEmoticonCode 怕 大家 肚子 餓 ， 快速 衝完 28 頁 PPT
+傳神 跟 大大 在戰 回歸 曲線 ..... 這樣 我 今天 還要 報嗎 ThisIsAnEmoticonCode
+我 今天 真的 能 報 paper 嗎 ？ Still 0 slides ThisIsAnEmoticonCode
+「 f ( n ) =Θ ( g ( n ) ) ＜ ＝ ＞ 存在 c 1 , c 2 , n 0使 c1g ( n ) &amp; lt ; = f ( n ) &amp; lt ; = c2g ( n ) , 對 所有 n&amp;gt;=n 0 」 好 久沒碰 這 種 東西 了啊 ... ThisIsAnEmoticonCode
+既然 睡不 到 天亮 ， 來 看 論文 吧
+原本 這 週末 回家 是 因為 昨晚 跟 同學 約吃 燒肉 。 回 台北 那 天 我 有去 看了 外公 ， 臨走 前 我 還 跟 他 說 ， 外公 我 明天 再 來 看 你唷 ~ 今天 一大早 ， 您 還 等不及 跟 大家 一起 吃 午飯 ， 怎麼 就 先 出門 去 旅行 啦 ？ 我們 才 約好 的耶 。 雖然 捨不得 ， 還是 祝福 您 一路 順風 ~ 而我 至少 還 有 趕上 最後 一 面 ， 或許 .. 也算 幸福 了吧 ThisIsAnEmoticonCode
+等一下 會很 悲傷 ， 準備好 了 。
+肉 飽酒 不足 ThisIsAnEmoticonCode
+going to 樂樂 燒肉 ThisIsAnEmoticonCode
+Wish Online 掛 整晚 沒 斷線 ， 而且 伺服器 全線 狀態 是 擁擠 的 ， 這樣 表現 還算 不錯
+如果 在你 面前 的人 正在 叫 你 ， 你 也 握住 他的 手說你在 這 ， 他 頭是 轉過來 了 ， 也 張開 眼睛 ， 可是 他 之所以 知道 你 來 了 ， 並 不是 因為 看見 ， 而 只是 因為 聽見 。 而 他的 眼睛 張開 一會 就 會 閉上 一下 ， 雖然 你 知道 這 應該 只是 對方 虛弱 ， 可是 心裡 其實 很 害怕 哪 一 次 會是 永遠 閉上 了
+ThisIsAHyperLink 以前 的 IE 有 這 選項 嗎 ThisIsAnEmoticonCode 「 在 所有 網站 執行 附加 元件 」
+ThisIsAHyperLink photos-b.ak.fbcdn.net/hphotos-ak-snc1/hs221.snc 1 / 6820 _ 115889816 6406 _ 1046316632 _ 1456609 _ 6850603 _ n.jpg via ThisIsAHyperLink ajneok
+此刻 家裏 跟 學校 電腦 開 Plurk 河道 都出不 來 ThisIsAnEmoticonCode
+ThisIsAHyperLink Wish 奇夢之星 Online 10 / 9 16 : 00 開始 封測 # 感覺 滿 可愛 的 XD
+看起來 不會 很 順利 ... 但 還是 要 去 試 ， 該 準備 的 ... 這 次 一定 要 有個 結果 ThisIsAnEmoticonCode 誰 叫 我 消失 了 一 年 呢 ~
+幸好 家裏 冰箱 有 月餅 ... ThisIsAnEmoticonCode 超餓
+該 複習 一下 在 大一 時 學的 技能 了
+剛 在 捷運 上 聽 兩 個 人在 討論 博班 qualify 的 事情 ， 其中 一 個 說 他們 考 三科 ， 但是 全都 可以 用修課過且班 上前 50 % 來 換 ， 也就是說 修 三 堂 課修得 不錯 就算 是過 qualify 。 這樣 過關 的 機會 真的 比較 多 ... 或許 因為 人家 的課 非常 難修也 說不定 XD
+ThisIsAHyperLink 蹭 網卡 「 不道德 」 隱私 看 光光
+ThisIsAHyperLink Embedded development kits link up to Amazon cloud
+104 ... 要不要 限定 只待 台北 呢
+延期 一 週 又 延期 一 週 又 延期 一 週 ， 這樣 乾脆 不要 來 好 啦 ~ 既然 優先 度 這麼 低 應該 也 不是 什麼 必要 的 demo 吧
+在 去 seminar 之前 總算 把 bug 解 掉了 ， 明天 demo 可以 使用 新版 程式 。 等等 不用 帶 電腦 出門 啦 ThisIsAnEmoticonCode
+結果 不 確定 是被 咚咚 咚咚 吵醒 還是 餓醒 ， 只 知道 現在 不會 想 回去 睡 而且 還 很餓 ThisIsAnEmoticonCode
+XDD 我 突然 很 想 改以 後的 meeting 時間 了 ... 週二 想回 母校 上課 ThisIsAnEmoticonCode
+ThisIsAnEmoticonCode 一早 只有 新生 學弟 來 lab 認真 .....
+一 篇 長文 ThisIsAHyperLink 從牆外 紀錄 中共 如何 『 管理 』 網路
+難道 現在 anti-rootkit 技術 都 要 做到 hypervisor 去嗎 ... ThisIsAnEmoticonCode
+ThisIsAHyperLink 所以 這 兩 個 月要 加緊 進度 啦 ， 等 冬天 手腳 冰冷 就沒 什麼 戰力 了 XD
+ThisIsAHyperLink Asus ION 年底 登場 ： Eee PC 1201 n 、 EeeBox EB 1501
+強迫 睡覺 總算 又 能 早睡早起 啦 。 起來 看到 雨 那麼 大 .. 還是 去 吃完 早餐 就 回家 做事 好了 ThisIsAnEmoticonCode
+XD 原來 前 陣子 那 個 國軍 變形 金剛 動畫 真的 是我 大學 學長 的 死黨 做的 ， 以前 有 看 過 他的 其他 變形 類 作品 ， 這 次 把 這 套 用在 軍隊 動畫 真是 恰到好處 啊 。 想到 當時 看到 有人 說 這 不可能 是 國產 就 覺得 .....
+把 手 機上 全部 執行檔 檔名 列出 35 秒 ， 列出 又讀 檔案 內的 全部 內容 到 PC 就 變成 55 秒 ..... ThisIsAnEmoticonCode 下 次 再 調整 程式 吧 ~ 覓食 ThisIsAnEmoticonCo de
+今晚 要 強迫 就寢 時間 啦 ， 每 過 一陣子 總是 必須 執行 一 次 XD 。 想到 有事 還沒 做完 就 睡不 著 ， 乾脆 起來 寫到 開心 吧 ThisIsAnEmoticonCode
+在 台北 的人 說地震 ， 在 屏東 的人 也 說地震
+看 人家 發噗 說地震 過 幾 秒 才 感受到 ....... .......
+不 知 為何 去 練習 寫了 大二 資結跟組語 作業 ， 其實 還 滿懷 念的 XD 時光 真快 ... 能力 卻 好像 沒啥 提升 ThisIsAnEmoticonCode 所以 該 吃飯 了 ThisIsAnEmoticonCode
+差點 忘記 看 ThisIsAHyperLink USENIX Security 09
+冏 ... ThisIsAHyperLink Plurk Search 陳昭 榮
+今日 lab 居然 沒人 ThisIsAnEmoticonCode 不過 我 也 只是 買飯 來 印 論文 就走 ThisIsAnEmoticonCode
+原本 一直 以為 研發 替代 役 一定 要 老師 寫 推薦信 ， 原來 是 不一定 的 ， 看 公司 ... ThisIsAnEmoticonCode
+time recruit my power ThisIsAnEmoticonCode
+一向 是 讓 極度 打混 接著 瘋狂 工作 ThisIsAnEmoticonCode
+10月 囉 ， 該 寫作 業的該 注意 一下 ThisIsAnEmoticonCode
+原來 今天 同時 遭到 ThisIsAHyperLink p 8361 和 ThisIsAHyperLink babykoala 213 開槍 擊中 ThisIsAnEmo ticonCode
+裝 了 ThisIsAHyperLink RVMDK 來 試用 一下 ， IDE 畫面 不錯 ThisIsAHyperLink
+糟糕 ， 早上 把 鬧鐘 按掉 那時 ， 是 有 一 絲 要 重設 到 下午 1點 的 念頭 .. 但 沒 去 做 ， 然後 就 現在 了 XDD
+半夜 看 Macross Frontier 是 不 對的 ， 無法 睡覺 ！ ThisIsAHyperLink
+有 一 個 傢伙 總是 對 lab 那 個 爛門沒 感覺 似的 ， 每 一 次 都 一定 要 直接 讓它 很 大聲 的 關起 來 XD ... 其他 人 或許 有時 也 會 忘記 ， 至少 都 不會 很 常 ， 就 只有 那 個 人 很 常 進出 又 每 一 次 都 這樣 ， 才 造成 我 印象 深刻 ThisIsAnEmoticonCode 該生我 不 認識
+好好 吃 一 頓 MOS 再去 中壢 吧 ThisIsAnEmoticonCode 旁邊 有 一 對 閃光 還在 玩搶 漢堡 , 女 : 「 還我 .. 還我 」 XD
+黑 豆沙 蛋黃 酥 配上 鮮奶 ... ThisIsAnEmoticonCode
+ThisIsAHyperLink An Introduction to JavaScript ’ s “ this ”
+CCS ' 09 的 ThisIsAHyperLink accepted papers 目前 有 六 篇 有 興趣 ( 其中 一 篇 &amp; quot;English Shellcode &amp; quot ; 暫時 還 抓不到 ) ， 這樣 到 年底 前的 meeting 應該 都 不用 再 找 題目 了 ThisIsAnEmoticonCode
+rainy day ~
+今天 居然 聽到 一 個 說法 ， 說 不 練習 是 因為 學弟 好像 都 沒心 練習 感覺 整 個 沒 風氣 就懶了 ..... 難道 當 學長 的要靠 學弟 刺激 才有 學習 動力 嗎 ， 何況 已經 是 不同 階段 了 ... 如果說 真的 要 靠 學弟 風氣 ， 等 學弟 程度 衝 起來 的 時候 ， 那時 學長 也 沒有 多大 優勢 囉 。 大家 都 沒把握 贏 ， 至少 要 想想 怎樣 才 不會 輸 太多 吧 ThisIsAnEmoticonCode
+起床 ， 吃了 一 盒 果凍 。 下午 回來 整 個 昏睡 到 現在 ...
+墾 親團 快 中暑 了 … 苗栗 一 朵 雲都 沒有 ThisIsAnEmoticonCode
+墾 親團 在 火車 上了 ThisIsAnEmoticonCode
+似乎 有睡 超過 三 小時 的話 訂 鬧鐘 就 能 靠 意志力 撐起來 … 睡不 到 3 就 真的 無法 保證 , 理智 會 要 我 繼續 睡吧 XD 等等 出門 ~
+ThisIsAHyperLink 網路 安全 趨勢 部落格 from ThisIsAHyperLink TC _ 0610
+ReP : ThisIsAHyperLink 日版 Win 7怨念 # 扯出 一 堆 聲優 .. 笑死 我啦 .. 尤其 是 「 ThisIsAHyperLink Tsunamimk 2說 石 田彰 的話 好像 那 系統 會很 腹黑 .... 」
+原來 昨天 有人 打來 吩咐 10 / 1 進度 他們 已 排定 ， 又 來 催 程式 了 ＠ ＠ ThisIsAnEmoticonCode
+虧 了 ... 整 本 看到 完 都是 學 過的 東西 ， 浪費 八百八 ThisIsAnEmoticonCode 怪 自己 在 書店 沒 先 多 翻 幾 下 了 XD&amp;quot;&amp;quot ; | | | 換下 一 本 ...
+ThisIsAHyperLink 新波 科技 的 部落格 有 資安 部份 耶
+早睡早起 早餐 讀書 ThisIsAnEmoticonCode
+嗯 ， 很 厲害 ， 我 會 記住 ThisIsAnEmoticonCode
+ThisIsAHyperLink 搬家 流氓 強索 11 倍 價
+到 某站卯 起來 瀏覽 兩 小時 才 看完 ， 滿 羨慕 的 ， 他們 慢慢 累積 起 能量 是 真的 看 得到 的 。
+看到 uC/OS-III ( via ThisIsAHyperLink ARM techcon 3 Schedule ) 這 名字 真的 滿 感動 的 ， 幾 年 前在 大學 是學 uC/OS-II ， 期末 作業 是 讓 x 86 開機 進入 uC/OS-II 跑 自己 設計 的 程式
+不 知道 到時 選擇題 會不會 拿 CEH 等級 的 來 考
+ThisIsAHyperLink 金盾獎 報名 截止 延至 10 / 15 ， 初賽 延至 10 / 31 ( 六 )
+學弟 把 lab 網站 改了 很多 地方 新增 管理 功能 ， 很 勤勞 ThisIsAnEmoticonCode 但 .. 到時 正式 上線 之前 不 先 PT 一下 會 讓人 焦慮
+今天 seminar 講 machine learning 雖然 我 不 懂但 感覺 應該 算滿 有意思 的啊 ， classification 在做 研究 上 很 重要 。 我 實際 需要 時 才恨大 學上 機率 時 不當 一 回 事 ThisIsAnEmoticonCode 雖說 投影片 有 數 學 但他 又 沒著墨在 那 個 公式 多久 ， 主要 講 概念 而已 .. 那 個 新生 說 啥 純 數學 推導 很 無聊
+雜物 盒 裡面 感冒藥 的 期限 只 到 7 / 12 ， 所以 現在 要 出去 買藥兼吃 東西 XD
+會不會 明天 在 系館 門口 量 體溫 就 禁止 進入 了
+果然 是 感冒 啦 ThisIsAnEmoticonCode 喉嚨 痛 ， 另外 剛 接到 電話 聽說 母校 這 學期 有 開 Android 的課 ， 學員 配備 手機 ， 新 加選 的會 再 買 Hero ， 小班制 這樣 玩 好像 不錯 XD
+07 - GHOST 看到 11 感覺 是很像 X ( 謎之 摯友 愛 = = 還 有 白 天使 和黑 天使 以及 七 XX ) + 今日 魔 ( 主角 爆走 會 變成 神 ， 抓狂 完 之後 不 記得 剛做了 啥 ) 。 另外 11 集 結尾 福山 潤 終於 登場 了 .. 聲線 是在 空罐 少女 裡 大地 翔 那 個 聲音 ... 很 白痴
+這 本 &amp; quot;Windows Debugging : Practical Foundations&amp;quot ; 是 一 本 很小 的書 ( 加上 書 末 空白 頁 200 p 左右 ) ， 裡面 寫的 東西 也 的確 基礎 易懂 ， 但 越 是 基本 的 知識 反而 越 不能 輕忽 ThisIsAHyperLink tlsj.tenlong.com.tw/WebModule/BookSearch/amn_fo to/190/1906717109.jpg
+睡 一半 收到 簡訊 被 吵醒 , 居然 是 OMG 說我 獲得 新 推出 遊戲 的一 個 虛寶 序號 = = 就算 是 送 我但 這時 間 也太 囧了
+今天 Immunity Debugger 真 是 狂婊我 ThisIsAHyperLink 沒有 磁片 啥鬼啦 .. 而且 還是 system-modal message
+剛 買了 這 期 的資 安人 ， + ram 寫的 文章 刊登 出來 啦
+累 ~ 終於 到 家啦 ~ 在 MOS 討論 程式 感覺 良好 ThisIsAnEmoticonCode
+今天 講得小累 XD 後來 去天瓏 還 巧遇 ThisIsAHyperLink babykoala 213 … 晚走還碰 得到 真 有緣 XDD
+全速 運轉 中 ... ThisIsAnEmoticonCode
+ThisIsAHyperLink Google Chrome 變 身 任天堂 模擬器 ， 上網 玩紅白機 經典 老 遊戲 # 內容 是 個 JavaScript 程式 ( ThisIsAHyperLink JSNES )
+銅鑼 燒配 鮮奶 .. 真是 棒啊 XDD
+氣 差不多 集滿 了 ， 來 一 次 搞定 ThisIsAnEmoticonCode
+剛 在 國道 37 km 處 看到 四五 台 車親 在一起 ， 不過 車速 應該 不 快 因為 都 還 滿 完整 的 ， 也 還 不至於 後面 塞車
+看到 ThisIsAHyperLink darkthread 大 ThisIsAHyperLink 說 的話 才 想到 ， M $ 要以 基於 安全性 考量 來 解釋 強迫 升級 這 件 事 ， 的確 應該 連 IE 6 一起 升 ， 畢竟 目前 IE 8 他們 也 是在 安全 方面 較 過去 強化 不少 不是 嗎 ... ( 當然 現況 不可能 禁用 IE 6啦 XD )
+現在 才 發現 四月 番 有 一 部 叫 07 - GHOST ， 這 聲優 陣容 不錯 啊 ... 好奇 搜索 中
+ThisIsAHyperLink MSN 強制 升級 微軟 ： 下 一 波 還 有 8.5 版
+「 mov ebp , esp 」 這 個 指令 既 可 以是 8 B EC 也 可 以是 89 E 5 ThisIsAnEmoticonCode
+翻 書 進度 搞定 ， 回家 之後 確認 一些 細節 就 能 如期 趕出 心得 ThisIsAnEmoticonCode
+全民 最大 黨 [ 陳掬 + 雨 宙人 ] XDDD ( 要 先 有 看 過 宇宙 人的 MV 看 這 才 好笑 ) ThisIsAHyperLink
+只要 這裡 還 有 進行 手機 研究 ， 看來 是 不會 脫離 ARM 相關 的 知識 獲取 啦 ， 卯 起來 看準 沒 錯 ThisIsAnEmoticonCode
+七 煌寶 樹
+真 怪 ， 點 進 好友 profile 裡面 看 顯示 河道 為 private ， 但 明明 是 下方 還是 顯示 為 好友 狀態 呀 .. 重新 整理 之後 ， 整 個 頁面反 又 變成 You don't have permissions to view the profile .. 來回 幾 次 重新 整理 都 還是 這樣 ， 最後 登出 再登入就 正常 了
+ThisIsAHyperLink Chief of Google in China Leaving
+香格里拉 24 ( 完 ) 好感 動 。 這 部 冷門 動畫 我從 當初 還 很忙 的 時候 開始 追 ， 到 後來 不 忙再 到 現在 又 很忙 ， 終於 結局 了 ThisIsAnEmoticonCode 從 第一 集 就 搞得很 複雜 ， 前 十集 幾乎 在 解釋 設定 ， 後來 在 前面 鋪的梗 慢慢 逐一 解答 ， 算是 沒有 亂搞 ， 雖說 中間 還是 有點 拖戲 .. 還好 最後 三集 開始 集中 爆點 ， 精 彩度 + + 收尾 ThisIsAnEmoticonCode
+「 女王 的 報酬 」 cast 好像 滿強 的
+Time to prepare ppt .
+PhD 學生 ， 在 你的 領域 ， 你 有 足夠 能力 跟 大學生 和 碩士 生戰嗎 ？
+ThisIsAHyperLink Dive Into Python 3 ? Porting Code to Python 3 with 2 to 3
+ThisIsAHyperLink alvin 說 我們 會 把 重要 的噗 浪 技術 開放 在 ThisIsAHyperLink opensource.plurk.com / 希 望 能夠 幫助 到 其他 網帳 開發 者
+Just do it .
+在 Win 7 使用 VHD+BitLocker 是 不是 就 可以 取代 TrueCrypt 之類 的 軟體 呢
+ThisIsAHyperLink [ 網路 攻防戰 台灣 無辜 受害 ] ThisIsAHyperLink [ 殭屍 網路 攻擊 台灣 駭 最大 ]
+學籍 登錄 系統 就 是 欠罵
+ThisIsAHyperLink ThisIsAnEmoticonCode
+這 blog 滿酷的 : ThisIsAHyperLink Terminal Island via ThisIsAHyperLink pct
+總算 到 家了 ， 坐 著吃 MOS 讀書 ThisIsAnEmoticonCode
+一 本 3200 的書 … 考慮 很久 還是 買了 … 精裝 、 不 厚 的 基礎 教本
+ThisIsAHyperLink 非懂 不可 ECFA ！
+ThisIsAHyperLink 2009 / 9 SA@Tainan - 探索 嵌入 式 ARM 平台 與 SoC ( 9 / 26 - 9 / 27 )
+筆電的 光碟機 似乎 也 快 壞了
+健檢 完畢 順便 吃了 早 午餐 ThisIsAnEmoticonCode
+明天 早上 要 參加 健康 檢查 ， 但 現在 心情 有 些 好 所以 就 不 早點 睡了 ThisIsAnEmoticonCode
+ThisIsAHyperLink 「 Django 怎麼 念 ？ 「 榛果 」 ， 好 唸又好記 ， 還 好吃 ... 」
+終於 又 看懂 一章 ， 不 快點 看完 會 開天窗 ThisIsAnEmoticonCode
+Carbide.c + + 第一 次 啟動 模擬器 跑 測試 程式 都很慢 ， 剛 看了 一下 背景 在做 什麼 ， 最後 發現 它 居然 建了 124 條 running threads .... Orz ThisIsAHyperLink
+剛 進 實驗室 的 學弟 才灌好新 電腦 不久 ， 剛 計中 打來 說他 那 台 IP 疑似 spam server ... ThisIsAnEmoticonCode
+剛 看到 Vista / 2008 / 7有 0 day ， 若 這 個 有 經過 名人 宣傳 ， 就 可以 期待 看看 每 次 都扯 陰謀論 ( M $ 想賣 Win 7 才搞爛 XP ， 當初 賣 Vista 之前 就 說 一 次 了 ) 的 那些 人又 要 說 什麼 。 大概 會 說 M $ 居然 自婊 了吧 ...
+連 RE Nokia 電路 也 能 出刊 ... ThisIsAHyperLink Nokia Schematics !
+看起來 差不多 吵完 。 1 . 戰 資訊人 就 離題 囉2 . 將錯就錯 、 別人 也 錯 ， 不 代表 自己 正確 ， 但 因此 促使 根源 Plurk 處理 就有 了 事件 的 價值 ， 不 合理 設計 最終 總 該 被 正視 3 . 好玩 的 東西 很多 ， 技術 本來 無分 對錯 ， 只是 因為 拿到 檯面 上使 自己 不小 心 成了 擋箭牌 就太 辛苦 了 ， 某些 東西 還是 作為 小眾 工具 吧 。
+但 時間 不 花下 去 ， 就 永遠 會是 輸家 ThisIsAnEmoticonCode
+好 弱
+下 次 不准 半夜 還在 學校 debug
+看 了吵 很大 的噗 。 1 . 靠 特殊 技巧 達成 某些 事且 公開 ， 或多或少 造成 爭議 是 正常 ， 只 能說 惹到 鄉民 是非 多 。 我 之前 發現 過去 圖像 還 能 抓也 感到 困擾 ， 但 也 只能 注意 日後 別 亂傳 ， 畢竟 「 東西 放 上網 就 是 要 給 人 看 的 」 2 . 在 法律 上 不是 程式 設計師 判你 有沒有 罪 。 這 點 我們 身邊 就有 人 經歷 過 ， 我們 都 知道 那 根本 沒 什麼 也 一樣
+原來 我 當年 買的 Nokia N 70 雖然 和 N 73 長得 非常 像 ， 但 其 內部 OS 已經 是 S 60 二 代 末和 三 代 初 的大 差別 了 ， 三 代 使用 Symbian OS 9 ， 對 程式 設計 者 來 說 要 注意到 的 更為 複雜 。
+! ! ! 我 現在 才在 我的 Y ! 垃圾 信件 匣 發現 原來 Forum Nokia 早 就 回 給 我的 註冊 認證 信 ..... 「 确??基???注? 」
+在 VM 裡面 安裝 並 試用 了 Win 7 一會兒 ..... 目前 感覺 良好 ..... ThisIsAnEmoticonCode
+來 寫 昨天 早上 開會 討論 的新 工作 ThisIsAnEmoticonCode
+ThisIsAnEmoticonCode 默哀 ~ ThisIsAHyperLink 求婚 時 被 女友 發現 * 片 !
+ThisIsAHyperLink 東京 異象 恐爆8級巨震 大氣 離子 濃度 暴增 200 倍 專家 發 警告 ThisIsAnEmoticonCode ThisIsAnEmo ticonCode
+用 EUC-TW 的網 頁是 不是 擺明 不 想 普及 ... Orz ThisIsAHyperLink 我用 IE 7 ( 裝 IE 8的 筆電 暫時 不 在手邊 ) 和 Chrome 2 似乎 沒 看到 那 個 編碼 ...
+剛 開完 會 ， 目前 狀況 還好 ThisIsAnEmoticonCode
+我 現在 才 發現 我 筆電的 時間 慢了 一 個 小時 ， 剛 朋友 打來 跟我 說 兩 點了 ， 我 還 回嘴 說才剛過 一點 不 多 ， 進位 成 兩 點 也太 誇張 了吧 ？ 結果 是我 誇張 ... 不 知道 我從 哪時 開始 過比 別人 慢 一 個 小時 的日子 ...
+一 台 不會 常常 過 熱 降速的 筆電
+ThisIsAnEmoticonCode 剛被 通知 明天 早上 10點 要 開會 .. 肯定 免不了 又 要 加 功能 ThisIsAnEmoticonCode
+ThisIsAHyperLink 總算 裝好 S 60 SDK+Carbide C + + 環境 並且 可以 編譯 程式 放到 模擬器 上 跑 了 ... 簡單 的 事情 拖真久 ThisIsA nEmoticonCode
+當 好人 不再 是 好人 ， 壞人 也 不 想當 壞人 時 ...
+Oh my god..it's not that easy ThisIsAnEmoticonCode
+今年 金盾獎 變更 難了 ThisIsAnEmoticonCode
+香格里拉 22 總算 有 不錯 的爆 點了 ， 但 都 快 完結 了 才 ...
+果然 現在 事情 一多 又 沒空 讀 自己 想 看 的書 ， 慶幸 前 陣子 有 把握 一些 空閒 時間 入門 一點點 Python ...
+酷 ， 學弟 滿 認真 XD 有 提供 一 個 範例 程式 了
+撈 完 一些 paper ， 算是 有個 挑選 的 範圍 了
+ThisIsAHyperLink 機會 教育 ： 從 中華民國 總統府 網站 被 發現 XSS 漏洞 講起 [ 2 ] via ThisIsAHyperLink willh
+ThisIsAHyperLink 反 虛擬 機器 監控 技術 之 惡意 程式 偵測 # 不過 這 個 是寫 一 年 後 公開 ThisIsAnEmoticonCode
+ThisIsAHyperLink Assistant Professor Xuxian Jiang . Research : Rootkit , Reversing , Honeypot
+灌籃 高手 ptt 版 ThisIsAHyperLink via ThisIsAHyperLink yllan
+ThisIsAHyperLink 警員 喬裝 賭客 混入 ， 未料 警員 每 次 都 賭輸 ThisIsAnEmoticonCode via ThisIsAHyperLink CGS
+又 九月 了 ， 越來越 趕
+ThisIsAHyperLink gmapcatcher - Another Offline Google Map Viewer via ThisIsAHype rLink lis 186
+looking for interesting security-related papers for presentation at the end of S eptember .
+不 包括 讀 自己 的書 之外 有 四 件 事 同時 在 進行 ， 其實 份量 早 就 超過 六七月 那時 了 XD 也 都是 九月 過完 之前 要 搞定 ThisIsAnEmoticonCode
+ThisIsAHyperLink 稱 遇 色狼 胸 前 劃 X 原來 少婦 謊報
+買了 兩 個 外接 盒 ， 兩 個 備份 硬碟 終於 復活 了
+轉 ： ThisIsAHyperLink 記 部落格 被 入侵
+ThisIsAHyperLink 樂高 機器人 可解數獨
+ThisIsAHyperLink IL Stub Diagnostics Tool via ThisIsAHyperLink elleryq
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink willh : ThisIsAHyperLink 機會 教育 ： 從 中華民國 總統府 網站 被 發現 XSS 漏洞 講起
+所以 這 兩 天 XSS 的 知名度 又 提高 囉 ， 如果 昨天 那 個 傳到 後來 接上 3 b 3 、 org 不 知道 會 怎樣 ThisIsAnEmoticonCode
+ThisIsAHyperLink Android 作業 系統 移植 之 研究 與 實現 via ThisIsAHyperLink CrBoy
+IE 8 這樣 是加回 一點 分嗎 ThisIsAnEmoticonCode ThisIsAHyperLink
+去天瓏 一 趟 。 1 . iThome 本 期 # 413 ， 有 怒神 姊姊 寫的 HIT 文章 很 有趣 ， 特地 買 一 份 來 紀念 ， 文 中 還 有 提到 + ram 和 我們 lab 喔 ThisIsAnEmoticonCode 2 . 原文 新書 方面 iPhone 比例 不小 3 . 恐龍 本8 th 更 厚重 了 4 . 買了 三 本 小 書 ， 因為 現在 的 時間 分配 需求 已 不 適合 吃 磚塊 ， 小 本 先 求 吸收 ThisIsAnEmoticonCode
+Symbian S 60 programming is on . 雖然 有 新 成員 加入 分擔 一些 工作量 , 只是 時程 上 只有 兩 個 月 , 一起 下去 研究 才 能 預防 意外
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink elleryq : ThisIsAHyperLink USB 3.0 簡介
+香格里拉 21 作畫 有點 糟 ..... 不過 這 集 福山 潤 終於 有 台詞 了
+ThisIsAHyperLink
+L 1 剩最 後 一 關 ， 這 個 就 真的 還要 很久 了
+為了 追 人就 放出 對方 有 男友 的假 消息 還 真 無聊 ， 這樣 是 能 幹掉 幾 個 啦
+平常 好像 都 說 水蛭 吸血 吧 ， 這 個 冏 ..... ThisIsAHyperLink i466.photobucket.com/albums/rr23/billypan 101 / 2009 - 08 - 2 6 _ 174345 . jpg via ThisIsAHyperLink billypan
+ThisIsAHyperLink facebook 最近 出現 一 則 名為 「 甲昏 」 的 遊戲 ， 許多 網友 在 好玩 的 情況 下 紛紛 轉寄 送 禮 ， 但是 董氏 基金會 提出 警告 ， facebook 及 使用 的 網友 都 已 違反 菸害 防制 法 ， 將 向 衛生署 檢舉 # 真 是 不遺餘力
+昨天 終於 打消 老師 想 &lt; b&gt;**prevent**&lt;/b &gt; SSDT hook 的 念頭 了 ThisIsAnEmoticonCode
+回 台北 ， 買 書去
+ThisIsAHyperLink 搬家 2800 變 24000 ThisIsAnEmoticonCode
+lab 又 再度 聚餐 啦 ~ 不過 就 某 種 意義 上是 重要 紀念 , 因為 同學 即將 撤離 lab 了 ThisIsAnEmoticonCode
+在 lab 推廣 Python 有 一點 進展 XD ， 不過 + ram 還是 Perl 派 ThisIsAnEmoticonCode
+真的 是 「 lag 斷線 修 不好 」 ...
+光泉 高鈣 牛乳 ... 居然 是甜的 ...
+終於 ~ 早餐 GOGOGO
+昨天 那 個 火車 上殺人 已經 夠 令人 震驚 了 ， 但 蘋果 剛才 下午 發 的 那 個 美工 刀 ... 的 新聞 ， 更 是 可怕 加倍 ， 令人 心情 不好
+Immunity Debugger 現在 1.73 還是 不 夠 穩定 ...
+小 改 一下 &amp; quot ; 白眉 &amp; quot ; framework 讓它 在 Python 2.6 也 可以 用了 ， 原本 只能 在 2.5 才 能 直接 運作 ThisIsAnEmoticonCode
+原本 九點一 起床 就想買 早餐 ， 結果 跑去 試 PyWin 32 ， 現在 只好 直接 吃 午餐 了 XD
+非常 好 , 時差 正常化 有效 ! 因為 這時 間我 非常 累
+生活 安逸 能 自由 做 自己 的事 是 種 幸福 ， 但 心態 上 可 不能 跟 著 安逸 ThisIsAnEmoticonCode
+看 書本 的一 章沒 幾 面 看起來 很 簡單 ， 卻 因為 真的 講 太少 所以 接著 花了 三 個 小時 看官 網 作筆記 ... 可以 回家 了 ， 累
+ThisIsAHyperLink 這 位 郭 先生 真的 是 沒 救嚕
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink Kun_Yi : 想要 在 Vista x64bits 存取 I/O 的人 有 福了 , ThisIsAHyperLink CrystalCPUID 415 提供 了 一 個 已 簽名 的 Driver
+ThisIsAHyperLink 風色 幻想 Online 盒子 背面 的圖 ， 第一 眼 看到 覺得 好像 魯魯修 ， 但 多 看 幾 眼 整體 造型 會 覺得 也有 黑 執事 的 氣質 XD
+如果說 某某 系統 不會 有 病毒 並且 強調 這 「 病毒 」 是 狹義 的 &amp; quot;virus&amp;quot ; ( 感染 檔案 內容 ) ， 那 確實 其 生存 空間 早已 非常 有限 ， 問題 是 現在 誰 跟 你 傳統 virus 啊 ？ 因 沒 virus 而 相信 系統 在 跑 的 其他 東西 都是 沒有 問題 的話 ..... 其實 還是 可以 感受到 世界 的 美好 啦 ThisIsAnEmoticonCode
+要 上樓 洗衣服 一 出門 就 看到 房東 ， 他 一 看到 我 就 跟我 報告 樓下 佈告欄 別人 盯他 要 做的 架設 室外曬衣場和 清潔 飲水機 的 目前 進度 ， 大概 也 會 怕黑掉吧 XD ( ？ ) 其實 那些 設施 我 到 目前 都 還沒 用到 ， 所以 進行 的 效率 如何 我 也 無法 評斷 ThisIsAnEmoticonCode
+照 進度 看來 下 個 月份 present 排定 的 兩 次 都 OK ThisIsAnEmoticonCode
+又 到 了每天最 想 睡的 時刻 ..... 今天 要 撐住
+ThisIsAHyperLink Wing IDE 3 . 2.0 出了 ， 之前 3.1 . x 的 licence 可 續 用 ， 另外 安裝 程式 並 不會 幫你移除 舊版 。 目前 看起來 的 改進 至少 在 輸入 自動 完成 的 部份 有 稍微 加強 ， 可以 直接 在 選單 中 看 見 該 項目 的 類型
+ThisIsAHyperLink 莊國榮 - 維基 百科 ， 自由 的 百科全書 # 那 段 「 先知 」 是 最近 加的吧 ， 怎麼 有點 像 看 ThisIsAHyperLink KomicaWiki 的 感覺 XD ； 外部 連結 還連 到 youtube
+整 個 晚上 都 不時 感覺 頭部 左後 有 被戳的 感覺 ， 隔 一陣子 就 刺痛 一下 ， 希望 別 感冒 ThisIsAnEmoticonCode
+風色 幻想 Online
+研究 一 個 不 了解 的 東西 ， 就 是 可能 忙了 一 天 仍 看 不 出 整體 有 何 進度 ThisIsAnEmoticonCode
+又 把 時差 調回 來 了 ThisIsAnEmoticonCode
+別人 會 的你 不見得 都 要 會 ， 但是 別人 問 你 會 什麼 總 不能 都 不會 吧 ThisIsAnEmoticonCode
+在 Google Maps 街道 檢視 ， 我 出 捷運站 點了 麥當勞 跟 摩斯 ， 最後 只能 在 大馬 路上 徘徊 ， 望 著 自己 家那 再 熟悉 不過 的 巷子 進不 去 ... ThisIsAnEmoticonCode
+這 兩 天 點轉噗 連結 ， 常 會 看到 這樣 的 畫面 ThisIsAHyperLink Traceback : gender not found ?
+ThisIsAHyperLink 電腦 防毒 由 自己 做起 # 該 更新 一下 這 句 「 檔案 的 副檔名 如 . doc . docx . ppt . wmv 是 可以 開啟 的 」
+在 Youtube 搜尋 「 溫嵐 採花賊 」 沒有 ， 倒是 相關 搜尋 底下 一 片 「 採 檳榔 」
+Windows 又 要 強制 重開了 ...
+L 1 駕照 真的 難考 ... 改天 再 玩了 ThisIsAnEmoticonCode
+長篇 ThisIsAHyperLink 88 水災 的 一些 想法 ， 包括 黑暗 兵法 # 很長又 沈重 的文
+開會 中 ... 這 間 怎麼 一直 只有 GPRS 訊號 Orz ...
+用 Google Map 街道 檢視 ， 找尋 以前 唸的 大學 門口 四處 晃晃 ， 真 懷念 ThisIsAnEmoticonCode
+in lab . 剛才 先 回小 套房 放 東西 ， 好像 是 第一 次 碰巧 跟 女生 單獨 搭 電梯 ， 結果 也 碰巧 跟我 同 一樓 ， 原來 是住我 隔壁 的 隔壁 。
+ThisIsAHyperLink 2100 全民 開講 薛香 川 語錄 # 我 現在 在家沒 耳機 開 聲音 會 吵到 人 不能 看 ， 不過 光 看了 這 背景 就 實在 很 XD 啊 ThisIsAnEmoticonCode
+花了 好幾 天 總算 看完 2 . 6.2 的 tutorial.pdf 了 ， 再 來 可以 開始 看 點 應用 的 書籍 ThisIsAnEmoticonCode
+ThisIsAHyperLink [ ReP ] ThisIsAHyperLink c9s : ThisIsAHyperLink Vim Hacks 簡報 上線 # 當 時 沒辦法 去事 後 還是 要 補 看 ThisIsAnEmoticonCode
+中午 啦 ， MOS 我 來 了 ~ 兩 個 月 不見 ThisIsAnEmoticonCode
+終於 醒了啊 ， 希望 你 這 段 故事 ， 這 已經 就 是 結果 囉 ThisIsAnEmoticonCode
+從 高中 就 一直 喜歡 聽 有 m-flo 參與 的歌
+地震 ThisIsAnEmoticonCode
+自動 醒來 ， 今天 還沒 要 去 學校 ， 所以 應該 終於 能 悠閒 坐下來 吃 一 頓 MOS 了 .....
+寫了 一 篇 心得 文 ThisIsAHyperLink Unpack an encrypted linux_ia32_bind shellcode ， 歡迎 大家 給予 建議 或是 指出 錯誤 ThisIsAnEmoticonCode
+剛 收信 發現 學弟 有 回 老師 問 shellcode 的信 ， 雖然 很 簡略 至少 表示 也 有去 try ， 不錯 耶 ， 那 我 也 來 認真 回 一 篇 好了 ThisIsAnEmoticonCode
+ThisIsAHyperLink 誰 說 開發 Windows CE 的 應用 程式 只能 使用 微軟 自家 的 工具
+每 次要 找 資料 ， 就 會 順便 亂抓 一些 電子書 ... Orz
+ThisIsAHyperLink 水啦 ThisIsAnEmoticonCode
+Orz 大家 都去 COSCUP ... 我在 台中 探親 XD 剛才 去 買菜
+剛剛 才 發現 老師 有 寄信 詢問 一段 shellcode ， 其實 那 只是 metasploit 的 linux_ia32_bind 加密版 ， 明天 來 想想 怎麼 寫 回信 能 跟 老師 說明 清楚 這 東西 要 怎麼 變 回去 ThisIsAnEmoticonCode
+ThisIsAHyperLink Understanding Python ’ s ” with ” statement # 不錯 ， 描述 了 with 的 使用 時機 和 一些 細節
+唉 .. 明天 沒辦法 去 COSCUP 了 ThisIsAnEmoticonCode 參與 記錄 依然 掛零 .....
+ThisIsAHyperLink Twitter-based Botnet Command Channel
+ThisIsAHyperLink Palm Pre Reports Your Location and Usage To Palm 怪怪 ， 不 知道 其他 家 的 手機 會不會 ...
+ThisIsAHyperLink 君悅 夏季 放送 餐飲 促銷 不忘 賑災 「 為 響應 八八 水災 賑災 活動 ， 台北 君悅 也 將 於 即日 起至 八月 底止 ， 凡 於 各 餐廳 消費 滿 一千五百 元 ， 台北 君悅 就 會 為 您 捐出 兩 塊 錢 」 是說 消費 一千五百萬 ， 他們 就 會 捐 兩萬 嗎 ？ ThisIsAnEmoticonCode
+新 被凹三 功能 完成 1 / 3 ， 其他 兩 個 準備 給 他 say NO ThisIsAnEmoticonCode
+恭喜 資資 考到 駕照 啦 ， 有空 帶我 出去 玩 ～ ThisIsAnEmoticonCode ThisIsAnEmoticonCode ThisIsAnEmoticonCode 敢讓我開 也是 可以 啦 ThisIsAnEmoticonCode
+ThisIsAHyperLink 檔案 、 資料 夾 同步 的 最佳 免費 軟體 – FreeFileSync # 不過 我在 等 ThisIsAHyperLink 原 噗 作者 回答 有人 發問 的 SyncBack
+前 有 來者 、 後 有 追兵 ThisIsAnEmoticonCode ThisIsAnEmoticonCode
+ThisIsAHyperLink 政府 通令 外館說 「 不 」 公文 曝光
