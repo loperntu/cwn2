@@ -28,7 +28,6 @@ for line in open('CWNMOE-def-ex.csv'):
             flag=0
     if flag:d[lemma]={definition:[0]}
 
-'''
 for lemma in d:
     i=0
     while i<len(d[lemma].keys()):
@@ -37,13 +36,12 @@ for lemma in d:
             def1,def2=d[lemma].keys()[i],d[lemma].keys()[j]
             v1,v2=d[lemma][def1],d[lemma][def2]
             if len(v1)==len(v2):
-                if cos_similar(v1,v2)>.5:
+                if cos_similar(v1,v2)>.7:
                     d[lemma].pop(def1)
                     if i<len(d[lemma].keys()):continue
                 else:j+=1
             else:j+=1
         i+=1
-'''
 
 for lemma in d:
     for definition in d[lemma]:print lemma,definition
