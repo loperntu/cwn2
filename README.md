@@ -1,10 +1,10 @@
 # cwn2
 Chinese Wordnet v.2
 <ol>
-<li>移除和萌典相似的詞意:
-  distance.py
-<li>合併萌典詞意並選出分離詞意:
-  pop.py
+<li>移除和萌典相似的詞意：  
+distance.py
+<li>合併萌典詞意並選出分離詞意：  
+pop.py
 </ol>
 ##
 ======
