@@ -8,7 +8,7 @@ pop.py
 </ol>
 ## 萌典詞意年代排序
 sort_moe_by_cwn.py
-## cwn.sqlite 資料庫主要有三個資料表：
+## cwn.sqlite 資料庫 (http://lope.linguistics.ntu.edu.tw/cwnvis/data/cwn_dirty.sqlite) 主要有三個資料表：
 <ol>
 <li>cwn_lemma: 記錄 6 碼的 lemma_id 以及 lemma_type
 <li>cwn_sense: 在原 lemmaid 擴增 2 碼成為 8 碼的 sense_id，以及 sense_def
