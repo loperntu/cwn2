@@ -18,8 +18,12 @@ sort_moe_by_cwn.py
 from cwn import synset
 
 s=synset('打')
+
 print ' '.join(s.synonyms)
+
 print ' '.join(s.antonyms)
+
 print ' '.join(s.hyponyms)
+
 print ' '.join(s.hypernyms)
 
