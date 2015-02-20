@@ -15,6 +15,8 @@ sort_moe_by_cwn.py
 <li>cwn_goodSynset: 記錄 synset member 的 sense_id
 </ol>
 ## Chinese Wordnet Python Module
+first download the cwn_dirty.sqlite file in the same folder
+
 from cwn import synset
 
 s=synset('打')
