@@ -14,3 +14,12 @@ sort_moe_by_cwn.py
 <li>cwn_sense: 在原 lemmaid 擴增 2 碼成為 8 碼的 sense_id，以及 sense_def
 <li>cwn_goodSynset: 記錄 synset member 的 sense_id
 </ol>
+## Chinese Wordnet Python Module
+from cwn import synset
+
+s=synset('打')
+print ' '.join(s.synonyms)
+print ' '.join(s.antonyms)
+print ' '.join(s.hyponyms)
+print ' '.join(s.hypernyms)
+
