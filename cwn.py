@@ -4,7 +4,7 @@ from sqlite3 import connect
 
 class synset:
     def __init__(self,lemma_type):
-        conn=connect('../cwn_dirty.sqlite')
+        conn=connect('cwn_dirty.sqlite')
         self.c=conn.cursor()
         self.lemma_type=lemma_type
         self.synonyms=[]
