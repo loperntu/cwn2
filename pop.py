@@ -36,7 +36,15 @@ for lemma in d:
             def1,def2=d[lemma].keys()[i],d[lemma].keys()[j]
             v1,v2=d[lemma][def1],d[lemma][def2]
             if len(v1)==len(v2):
+<<<<<<< HEAD
                 if cos_similar(v1,v2)>.2:
+=======
+<<<<<<< HEAD
+                if cos_similar(v1,v2)>.1:
+=======
+                if cos_similar(v1,v2)>.7:
+>>>>>>> bbd3c2f5e4606a8a782bb7220ec93ef41885c457
+>>>>>>> 53af80aec1c69922e84c39213ac547df019f5437
                     d[lemma].pop(def1)
                     if i<len(d[lemma].keys()):continue
                 else:j+=1
