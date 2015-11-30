@@ -16,9 +16,10 @@ d=dict() # {lemma:{definition:[lesk]}}
 for line in open('CWNMOE-def-ex.csv'):
     lemma,definition,example=line.split(',')
     lemma,definition,example=lemma.strip('"'),definition.strip('"').strip(),example.strip().strip('"').strip()
+#    print lemma,definition,example
     example_words=example.split()
     flag=1
-    for plurk in plurks:
+    for plurk in plurks[:4444]:
         plurk_words=plurk.split()
         if lemma in plurk_words: # concordanced context
             lesk_score=lesk(example_words,plurk_words)
@@ -28,6 +29,8 @@ for line in open('CWNMOE-def-ex.csv'):
             flag=0
     if flag:d[lemma]={definition:[0]}
 
+#print 608
+
 for lemma in d:
     i=0
     while i<len(d[lemma].keys()):
@@ -36,15 +39,7 @@ for lemma in d:
             def1,def2=d[lemma].keys()[i],d[lemma].keys()[j]
             v1,v2=d[lemma][def1],d[lemma][def2]
             if len(v1)==len(v2):
-<<<<<<< HEAD
-                if cos_similar(v1,v2)>.2:
-=======
-<<<<<<< HEAD
-                if cos_similar(v1,v2)>.1:
-=======
                 if cos_similar(v1,v2)>.7:
->>>>>>> bbd3c2f5e4606a8a782bb7220ec93ef41885c457
->>>>>>> 53af80aec1c69922e84c39213ac547df019f5437
                     d[lemma].pop(def1)
                     if i<len(d[lemma].keys()):continue
                 else:j+=1

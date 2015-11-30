@@ -1,48 +1,48 @@
+#-*-coding:utf8-*-
 from sqlite3 import connect
-conn=connect('cwn_dirty.sqlite')
-c=conn.cursor()
+
 
 def lookup_lemma_id(lemma_type):
+    conn=connect('../cwn_dirty.sqlite')
+    c=conn.cursor()
     c.execute('select * from cwn_lemma where lemma_type="'+lemma_type+'"')
     cwn_lemma=c.fetchone()
-    if cwn_lemma:
-        lemma_id,cwn_pinyin,cwn_zhuyin,lemma_sno,lemma_type,meet_date,mod_time,supersense=cwn_lemma
-        return lemma_type
+    lemma_id,cwn_pinyin,cwn_zhuyin,lemma_sno,lemma_type,meet_date,mod_time,supersense=cwn_lemma
+    conn.close()
+    return lemma_id
 
-def lookup_pos(sense_id):
-    c.execute('select * from cwn_pos where cwn_id like "%'+sense_id+'%"')
-    cwn_pos=c.fetchone()
-    pos=cwn_pos[2]
-    return pos
-
-def lookup_lemma_type(lemma_id):
-    c.execute('select * from cwn_lemma where lemma_id="'+lemma_id+'"')
-    cwn_lemma=c.fetchone()
-    if cwn_lemma:
-        lemma_type=cwn_lemma[4]
-        return lemma_type
-
-def lookup_sense(lemma_id):
+def lookup_senses(lemma_type):
+#    conn=connect('../cwn_dirty.sqlite')
+ #   c=conn.cursor()
+    lemma_id=lookup_lemma_id(lemma_type)
     c.execute('select * from cwn_sense where lemma_id="'+lemma_id+'"')
-    cwn_sense=c.fetchone()
-    sense_def=cwn_sense[2]
-    return sense_def
+    cwn_senses=c.fetchall()
+    d={'senses':[]}
+    for cwn_sense in cwn_senses:
+#        d['senses'].append(cwn_sense[2])
+        print lemma_type.encode('utf8'),cwn_sense[2].encode('utf8')
+  #  conn.close()
+    return d
 
-def lookup_example(sense_id):
-    c.execute('select * from cwn_example where cwn_id="'+sense_id+'"')
-    cwn_example=c.fetchone()
-    if cwn_example:
-        cwn_id,example_sno,example_cont=cwn_example
-        return ''.join(example_cont.split())
+def lookup_relation(cwn_lemma):
+    rel_lemmas=[]
+    conn=connect('../cwn_dirty.sqlite')
+    c=conn.cursor()
+    c.execute('select * from cwn_relation where cwn_lemma="%s"' % cwn_lemma)
+    for cwn_relation in c.fetchall():
+        relation_id,cwn_id,rel_sno,rel_type,rel_lemma,rel_refid,rel_cluster,rel_cwnid,rel_facet,cwn_lemma=cwn_relation
+        rel_lemmas.append(rel_lemma)
+    return rel_lemmas
 
-c.execute('select * from cwn_goodSynset')
-for id,gloss,member,pwn_id,pwn_gloss,pwn_word,mod_time in c.fetchall():
-    sense_id=member[:8]
-    lemma_id=member[:6]
-    pos=lookup_pos(sense_id)
-    if pos:
-        if pos in ['Na','Nb','Nc','Ncd','Nd','Ng','Nh','nom']: # N,V,A,D
-            lemma=lookup_lemma_type(lemma_id)
-            example=lookup_example(sense_id)
-            if lemma and example:
-                print pos,id,lemma.encode('utf8'),gloss.encode('utf8'),example.encode('utf8')
+conn=connect('../cwn_dirty.sqlite')
+c=conn.cursor()
+c.execute('select * from cwn_lemma')
+cwn_lemmas=c.fetchall()
+for cwn_lemma in cwn_lemmas:
+    lemma_id,cwn_pinyin,cwn_zhuyin,lemma_sno,lemma_type,meet_date,mod_time,supersense=cwn_lemma
+    lookup_senses(lemma_type)
+conn.close()
+
+#print lookup_lemma_id(u'高興')
+#print lookup_lemma_id(u'快樂')
+#print ' '.join(lookup_relation(u'阻'))
