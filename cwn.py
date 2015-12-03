@@ -1,7 +1,3 @@
-class Lemma:
-    def __init__(self,lemma_name):
-        self.lemma=lemma_name
-        self.definitions=['animal','canine']
 
 d=dict()
 
@@ -13,11 +9,15 @@ for line in open('cwn_dirty.uniq'):
 all_lemma_names=set()
 for lemma_name,definitions in d.items():
     all_lemma_names.add(lemma_name)
-#    for definition in definitions:
- #       print lemma_name,definition
-
-#for lemma_name in all_lemma_names:
- #   print lemma_name
 
 def definitions(lemma_name):
     return d[lemma_name]
+
+class Synset:
+    def __init__(self,lemma_name_index):
+        lemma_name,index=lemma_names_index.split('.')
+        self.definitions=['animal','canine']
+
+def synsets(lemma_name):
+    synset_list=[]
+    for definition in d[lemma_name]
