@@ -10,8 +10,11 @@ all_lemma_names=[lemma_name for lemma_name in d]
 class Synset:
     def __init__(self,lemma_name_index):
         lemma_name,index=lemma_name_index.split('.')
-        self.lemma_names=[lemma_name]
+        self.lemma_name=lemma_name
         self.definition=d[lemma_name][int(index)]
+        self._name=lemma_name_index
+    def __repr__(self):
+        return "%s('%s')" % ('cwn.Synset',self._name)
 
 def synset(lemma_name_index):
     return Synset(lemma_name_index)
