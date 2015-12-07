@@ -1,7 +1,7 @@
 d=dict()
-
-for line in open('cwn_dirty.uniq'):
-    lemma_name,definition=line.split()
+for line in open('dict-revised.csv'):
+    lemma_name,definition=line.split(',')
+    lemma_name,definition=lemma_name.strip(),definition.strip()
     if lemma_name not in d:d[lemma_name]=[definition]
     else:d[lemma_name].append(definition)
 
@@ -14,7 +14,7 @@ class Synset:
         self.definition=d[lemma_name][int(index)]
         self._name=lemma_name_index
     def __repr__(self):
-        return "%s('%s')" % ('cwn.Synset',self._name)
+        return "%s('%s')" % ('moe.Synset',self._name)
 
 def synset(lemma_name_index):
     return Synset(lemma_name_index)
@@ -22,9 +22,11 @@ def synset(lemma_name_index):
 def synsets(lemma_name):
     synset_list=[]
     for i in range(len(d[lemma_name])):
-        synset_list+=[synset('%s.%d' % (lemma_name,i))]
+        lemma_name_index='%s.%d' % (lemma_name,i)
+        synset_list+=[synset(lemma_name_index)]
     return synset_list
 
 if __name__=='__main__':
-    for synset in synsets(all_lemma_names[0]):
-        print synset,synset.definition
+    for lemma_name in all_lemma_names:
+        for s in synsets(lemma_name):
+            print s,s.definition
