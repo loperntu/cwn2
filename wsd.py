@@ -26,7 +26,7 @@ def lesk(context_sentence, ambiguous_word, pos=None, synsets=None):
     Usage example::
 
         >>> lesk(list('順序排在第一。'), '一')
-        cwn.Synset('一.0')
+        cwn.Synset('一.3')
 
     [1] Lesk, Michael. "Automatic sense disambiguation using machine
     readable dictionaries: how to tell a pine cone from an ice cream
