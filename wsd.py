@@ -9,6 +9,7 @@
 # For license information, see LICENSE.TXT
 
 import cwn
+from cwn import *
 
 
 def lesk(context_sentence, ambiguous_word, pos=None, synsets=None):
@@ -25,8 +26,8 @@ def lesk(context_sentence, ambiguous_word, pos=None, synsets=None):
 
     Usage example::
 
-        >>> lesk(list('順序排在第一。'), '一')
-        cwn.Synset('一.3')
+        >>> lesk(list(cwn.synsets(cwn.all_lemma_names[0])[0].example),cwn.synsets(cwn.all_lemma_names[0])[0].lemma_name)
+        cwn.Synset('團.4')
 
     [1] Lesk, Michael. "Automatic sense disambiguation using machine
     readable dictionaries: how to tell a pine cone from an ice cream
@@ -54,4 +55,8 @@ def lesk(context_sentence, ambiguous_word, pos=None, synsets=None):
 
 if __name__ == "__main__":
     import doctest
-    doctest.testmod(optionflags=doctest.NORMALIZE_WHITESPACE)
+#    doctest.testmod(optionflags=doctest.NORMALIZE_WHITESPACE)
+    for lemma_name in all_lemma_names:
+        for s in synsets(lemma_name):
+            if s.__repr__()==lesk(list(s.example),s.lemma_name).__repr__():
+                print s,s.definition,s.example

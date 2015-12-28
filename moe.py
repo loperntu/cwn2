@@ -29,5 +29,5 @@ def synsets(lemma_name):
 
 if __name__=='__main__':
     for lemma_name in all_lemma_names:
-        for s in synsets(lemma_name):
-            print s,s.definition
+        print lemma_name
+#        for s in synsets(lemma_name):print s,s.definition
