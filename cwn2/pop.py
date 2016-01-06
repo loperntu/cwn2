@@ -39,7 +39,7 @@ for lemma in d:
             def1,def2=d[lemma].keys()[i],d[lemma].keys()[j]
             v1,v2=d[lemma][def1],d[lemma][def2]
             if len(v1)==len(v2):
-                if cos_similar(v1,v2)>.7:
+                if cos_similar(v1,v2)>0.9:
                     d[lemma].pop(def1)
                     if i<len(d[lemma].keys()):continue
                 else:j+=1
